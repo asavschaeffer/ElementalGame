@@ -83,6 +83,47 @@ python analyze_logs.py --optimize --max-files 30
 python analyze_logs.py --cross-session --session-limit 5
 ```
 
+## Advanced Analytics System
+
+The game now includes a sophisticated analytics system that provides deep insights into gameplay patterns:
+
+```
+# Generate a narrative description of your gameplay experience
+python analyze_logs.py --narrative
+
+# Analyze logs and detect patterns
+python analyze_logs.py --eat-logs
+```
+
+### Analytics Features
+
+- **Temporal Pattern Detection**: Identifies relationships between game events across time
+- **Elemental Interaction Analysis**: Quantifies how wetness affects fire resistance and damage reduction
+- **Narrative Generation**: Creates a story-driven interpretation of your gameplay experience
+- **Adaptive Pattern Recognition**: Identifies your unique play style and adaptation strategies
+
+The advanced analytics system tracks these key elements:
+
+1. **Connected Duples**: Pairs of game variables that change together consistently
+2. **Memory-Efficient Processing**: Focuses on changing data points while filtering out static "dust"
+3. **Metamorphic Relationships**: How player states transform when interacting with different elements
+4. **Progression Timeline**: Your journey through the elemental areas and mastery progression
+
+### Visualization
+
+The analytics system can generate various visualizations to help understand gameplay patterns:
+
+- Player attribute progression over time
+- Elemental interaction matrices
+- Damage source correlation networks
+- Area transition flow diagrams
+
+Run the visualizer directly:
+
+```
+python -m devtools.visualizer
+```
+
 ## Logging System
 
 The game features a comprehensive logging system that captures detailed information about gameplay:

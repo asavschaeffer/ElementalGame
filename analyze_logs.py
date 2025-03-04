@@ -69,6 +69,8 @@ def main():
                         help='Compress and analyze all logs into a pattern summary')
     parser.add_argument('--detect-patterns', action='store_true',
                         help='Detect patterns in player health and damage sources')
+    parser.add_argument('--narrative', action='store_true',
+                        help='Generate a narrative description of gameplay experience')
     
     args = parser.parse_args()
     
@@ -140,10 +142,18 @@ def main():
     else:
         print("Failed to create visualization. Check if the metric exists in the logs.")
 
+    # Generate narrative
+    if args.narrative:
+        print("Generating gameplay narrative...")
+        narrative = generate_gameplay_narrative(session_id)
+        print(narrative)
+        return
+
     # Eat logs command
     if args.eat_logs:
         print("Eating logs and detecting patterns...")
-        generate_compressed_log_report()
+        report = generate_compressed_log_report(session_id)
+        print(report)
         return
         
     # Detect patterns command
@@ -963,15 +973,121 @@ Wetness-Fire Resistance Correlation: {wetness_fire_correlation}
     if 'ABYSS' in areas_visited:
         insights.append("Player reached the final abyss area")
     
+    # Add deeper pattern analysis
+    # Track elemental progression timeline
+    elemental_timeline = []
+    if 'BEACH' in areas_visited:
+        elemental_timeline.append("Gained water resistance")
+    if 'VOLCANO' in areas_visited and len(fire_resistance_values) > 0 and any(r[1] > 50 for r in fire_resistance_values):
+        elemental_timeline.append("Developed significant fire resistance")
+    if 'ABYSS' in areas_visited and len(fire_resistance_values) > 0 and len(wetness_values) > 0:
+        if any(r[1] > 70 for r in fire_resistance_values) and any(w[1] > 70 for w in wetness_values):
+            elemental_timeline.append("Achieved obsidian armor formation")
+    
+    # Detect player adaptation patterns
+    adaptation_insights = []
+    # Check for wetness increases after fire damage
+    if damage_sources.get("LAVA", []) and wetness_values:
+        wet_timestamps = [float(w[0]) for w in wetness_values]
+        lava_damage_events = []
+        for event_file in event_files:
+            try:
+                with open(os.path.join(events_dir, event_file), 'r') as f:
+                    event = json.load(f)
+                    if event.get('event_type') == 'PLAYER_DAMAGED' and event.get('data', {}).get('source') == 'LAVA':
+                        lava_damage_events.append(float(event.get('timestamp', 0)))
+            except Exception:
+                pass
+        
+        # Look for wetness increases after lava damage
+        adaptation_count = 0
+        for damage_time in lava_damage_events:
+            for i, wet_time in enumerate(wet_timestamps[:-1]):
+                if wet_time > damage_time and wet_timestamps[i+1] > wet_time:
+                    # Check if wetness increased
+                    if wetness_values[i+1][1] > wetness_values[i][1]:
+                        adaptation_count += 1
+                        break
+        
+        if adaptation_count > 2:
+            adaptation_insights.append("Player learned to increase wetness after taking fire damage")
+    
+    # Add narrative-driven summary
+    narrative = []
+    
+    if elemental_timeline:
+        narrative.append("Elemental Journey: " + " → ".join(elemental_timeline))
+    
+    if adaptation_insights:
+        narrative.append("Player Adaptation: " + " | ".join(adaptation_insights))
+    
+    # Check for combat style
+    if damage_source_summary:
+        total_hits = sum(stats['frequency'] for stats in damage_source_summary.values())
+        if total_hits > 20:
+            narrative.append("Combat Style: Experienced many combat encounters")
+        elif total_hits < 5:
+            narrative.append("Combat Style: Avoided most combat encounters")
+    
     # Add insights to report
     if insights:
+        report += "Key Observations:\n"
         for insight in insights:
             report += f"- {insight}\n"
-    else:
+    
+    if narrative:
+        report += "\nYour Gameplay Story:\n"
+        for story_element in narrative:
+            report += f"- {story_element}\n"
+    
+    if not insights and not narrative:
         report += "No significant patterns detected.\n"
     
     print("Analysis complete!")
     return report
+
+def generate_gameplay_narrative(session_id=None):
+    """
+    Generate a narrative description of the player's gameplay experience.
+    
+    This function uses the advanced analytics module to create a story-driven
+    interpretation of the player's journey through the game world.
+    
+    Args:
+        session_id (str): Session ID to analyze (uses most recent if None)
+        
+    Returns:
+        str: Narrative text describing the gameplay experience
+    """
+    try:
+        from advanced_analytics import TemporalPatternAnalyzer
+        
+        # Initialize the analyzer
+        analyzer = TemporalPatternAnalyzer(session_id)
+        
+        # Generate the narrative
+        narrative = analyzer.generate_gameplay_narrative()
+        
+        # Save narrative to file
+        if narrative:
+            # Create exports directory if it doesn't exist
+            exports_dir = os.path.join('logs', 'exports')
+            os.makedirs(exports_dir, exist_ok=True)
+            
+            # Save to file
+            timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
+            narrative_file = os.path.join(exports_dir, f"narrative_{timestamp}.md")
+            
+            with open(narrative_file, 'w') as f:
+                f.write(narrative)
+            
+            print(f"Narrative saved to: {narrative_file}")
+        
+        return narrative
+        
+    except ImportError as e:
+        print(f"Error: Could not import advanced analytics module: {e}")
+        return "Advanced analytics module not available. Please ensure the advanced_analytics.py file exists."
 
 if __name__ == "__main__":
     main()
