@@ -1,0 +1,30 @@
+2025-03-03 18:25:38.208 | DEBUG | Game logger initialized with session ID: session_20250303_182538_29880
+2025-03-03 18:25:38.536 | INFO | [player] {"health": 100, "max_health": 100, "position": {"x": 400, "y": 300}, "wetness": 0, "fire_resistance": 0, "has_obsidian_armor": false, "obsidian_armor_level": 0, "current_area": "BEACH", "damage_dealt": 0, "damage_taken": 0}
+2025-03-03 18:25:38.537 | DEBUG | Created game state snapshot: logs\snapshot_20250303_182538.json
+2025-03-03 18:25:38.537 | INFO | [enemy_spawn] {"type": "water_splasher", "id": 2546607653840, "health": 20, "damage": 1, "position": {"x": 224, "y": 53}, "area": "BEACH"}
+2025-03-03 18:25:38.537 | INFO | [enemy_spawn] {"type": "water_splasher", "id": 2546607654944, "health": 20, "damage": 1, "position": {"x": 113, "y": 385}, "area": "BEACH"}
+2025-03-03 18:25:38.539 | INFO | [enemy_spawn] {"type": "water_splasher", "id": 2546607655040, "health": 20, "damage": 1, "position": {"x": 631, "y": 417}, "area": "BEACH"}
+2025-03-03 18:25:38.539 | INFO | [enemy_spawn] {"type": "water_splasher", "id": 2546607655184, "health": 20, "damage": 1, "position": {"x": 143, "y": 265}, "area": "BEACH"}
+2025-03-03 18:25:38.539 | INFO | [enemy_spawn] {"type": "water_splasher", "id": 2546607655280, "health": 20, "damage": 1, "position": {"x": 206, "y": 280}, "area": "BEACH"}
+2025-03-03 18:25:38.539 | INFO | [enemy_spawn] {"type": "water_splasher", "id": 2546607655568, "health": 20, "damage": 1, "position": {"x": 376, "y": 445}, "area": "BEACH"}
+2025-03-03 18:25:38.539 | INFO | [enemy_spawn] {"type": "water_splasher", "id": 2546607655760, "health": 20, "damage": 1, "position": {"x": 86, "y": 140}, "area": "BEACH"}
+2025-03-03 18:25:38.539 | INFO | [enemy_spawn] {"type": "water_splasher", "id": 2546607655904, "health": 20, "damage": 1, "position": {"x": 441, "y": 275}, "area": "BEACH"}
+2025-03-03 18:25:38.539 | INFO | [enemy_spawn] {"type": "water_splasher", "id": 2546607656048, "health": 20, "damage": 1, "position": {"x": 543, "y": 210}, "area": "BEACH"}
+2025-03-03 18:25:38.539 | INFO | [enemy_spawn] {"type": "water_splasher", "id": 2546607656192, "health": 20, "damage": 1, "position": {"x": 55, "y": 427}, "area": "BEACH"}
+2025-03-03 18:25:38.539 | INFO | [enemy_spawn] {"type": "water_splasher", "id": 2546607656336, "health": 20, "damage": 1, "position": {"x": 296, "y": 52}, "area": "BEACH"}
+2025-03-03 18:25:38.540 | INFO | [enemy_spawn] {"type": "water_splasher", "id": 2546607656528, "health": 20, "damage": 1, "position": {"x": 205, "y": 67}, "area": "BEACH"}
+2025-03-03 18:25:38.540 | INFO | [enemy_spawn] {"type": "water_splasher", "id": 2546607656672, "health": 20, "damage": 1, "position": {"x": 694, "y": 179}, "area": "BEACH"}
+2025-03-03 18:25:38.540 | INFO | [enemy_spawn] {"type": "water_splasher", "id": 2546607656816, "health": 20, "damage": 1, "position": {"x": 143, "y": 466}, "area": "BEACH"}
+2025-03-03 18:25:38.540 | INFO | [enemy_spawn] {"type": "water_splasher", "id": 2546607656960, "health": 20, "damage": 1, "position": {"x": 384, "y": 438}, "area": "BEACH"}
+2025-03-03 18:25:38.540 | INFO | [enemies_spawned] {"count": 15, "area": "BEACH", "types": ["water_splasher", "water_splasher", "water_splasher", "water_splasher", "water_splasher", "water_splasher", "water_splasher", "water_splasher", "water_splasher", "water_splasher", "water_splasher", "water_splasher", "water_splasher", "water_splasher", "water_splasher"]}
+2025-03-03 18:25:38.540 | INFO | [portal_created] {"source_area": "BEACH", "target_area": "VOLCANO", "position": {"x": 700, "y": 300}}
+2025-03-03 18:25:38.541 | WARNING | [area_transition] {"player_id": 2546607653360, "old_area": "BEACH", "new_area": "BEACH", "player_health": 100, "wetness": 0, "has_obsidian_armor": false}
+2025-03-03 18:25:38.541 | DEBUG | [splash_message] {"message": "Entered BEACH", "duration": 3.0}
+2025-03-03 18:25:38.548 | INFO | [tutorial_initialized] {"total_steps": 7}
+2025-03-03 18:25:38.548 | WARNING | [game_initialized] {"screen_size": [800, 600], "starting_area": "BEACH", "fps": 60, "tutorial_enabled": true}
+2025-03-03 18:25:38.550 | INFO | [player] {"health": 100, "max_health": 100, "position": {"x": 400, "y": 300}, "wetness": 0, "fire_resistance": 0.0, "has_obsidian_armor": false, "obsidian_armor_level": 0, "current_area": "BEACH", "damage_dealt": 0, "damage_taken": 0}
+2025-03-03 18:25:38.550 | ERROR | [game_crash] {"error": "'Game' object has no attribute 'check_portal_collisions'", "traceback": "(<class 'AttributeError'>, AttributeError(\"'Game' object has no attribute 'check_portal_collisions'\"), <traceback object at 0x00000250EC50E240>)", "area": "BEACH", "player_state": {"health": 100, "wetness": 0, "obsidian_armor": 0}, "frame_count": 0}
+2025-03-03 18:25:38.592 | WARNING | [game_shutdown] {"playtime": 0.04569411277770996, "final_area": "BEACH", "player_health": 100, "total_frames": 0, "final_state": "quit"}
+2025-03-03 18:25:38.595 | DEBUG | Created game state snapshot: logs\snapshot_20250303_182538.json
+2025-03-03 18:25:38.597 | DEBUG | Compressed 25 log entries to logs\cache\session_20250303_182538_29880_chunk_1741055138596.gz
+2025-03-03 18:25:38.599 | DEBUG | Session session_20250303_182538_29880 cache finalized

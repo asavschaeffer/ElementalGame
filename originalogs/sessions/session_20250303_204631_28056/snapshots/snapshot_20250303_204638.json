@@ -1,0 +1,24 @@
+{
+  "timestamp": 1741063598.2281053,
+  "snapshot_time": "20250303_204638",
+  "session_id": "session_20250303_204631_28056",
+  "snapshot_data": {
+    "environment": [
+      {
+        "timestamp": 1741063598.2275953,
+        "category": "environment",
+        "importance": "normal",
+        "data": {
+          "area": "BEACH",
+          "enemy_count": 2,
+          "enemy_types": [
+            "water_splasher",
+            "lava_splasher"
+          ],
+          "hazards": []
+        },
+        "session_id": "session_20250303_204631_28056"
+      }
+    ]
+  }
+}

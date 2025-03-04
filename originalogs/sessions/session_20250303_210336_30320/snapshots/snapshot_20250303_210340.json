@@ -1,0 +1,152 @@
+{
+  "timestamp": 1741064620.0355341,
+  "snapshot_time": "20250303_210340",
+  "session_id": "session_20250303_210336_30320",
+  "snapshot_data": {
+    "PERF_update_start": [
+      {
+        "timestamp": 1741064620.0350318,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 179,
+          "time": 1741064620.0350318,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      }
+    ],
+    "DEV_enemy_movement": [
+      {
+        "timestamp": 1741064620.0350318,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 399,
+            "y": 300
+          },
+          "new_position": {
+            "x": 398,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": false
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064620.0355341,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 589,
+            "y": 300
+          },
+          "new_position": {
+            "x": 588,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      }
+    ],
+    "DEV_enemy_player_collision": [
+      {
+        "timestamp": 1741064620.0350318,
+        "category": "DEV_enemy_player_collision",
+        "importance": "normal",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "enemy_position": {
+            "x": 398,
+            "y": 300
+          },
+          "player_position": {
+            "x": 400,
+            "y": 300
+          },
+          "distance": 1.0,
+          "collision_detected": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      }
+    ],
+    "DEV_enemy_attack_initiate": [
+      {
+        "timestamp": 1741064620.0350318,
+        "category": "DEV_enemy_attack_initiate",
+        "importance": "high",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "damage_type": "water",
+          "base_damage": 1,
+          "player_health": 47,
+          "player_wetness": 100,
+          "player_fire_resistance": 0.0,
+          "player_obsidian": 0,
+          "timestamp": 1741064620.0350318
+        },
+        "session_id": "session_20250303_210336_30320"
+      }
+    ],
+    "DEV_attack_missed": [
+      {
+        "timestamp": 1741064620.0355341,
+        "category": "DEV_attack_missed",
+        "importance": "normal",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 1751511375136,
+          "target": "player",
+          "roll": 0.9996196699244023,
+          "hit_chance": 0.8,
+          "timestamp": 1741064620.0355341
+        },
+        "session_id": "session_20250303_210336_30320"
+      }
+    ],
+    "environment": [
+      {
+        "timestamp": 1741064620.0355341,
+        "category": "environment",
+        "importance": "normal",
+        "data": {
+          "area": "BEACH",
+          "enemy_count": 2,
+          "enemy_types": [
+            "water_splasher",
+            "lava_splasher"
+          ],
+          "hazards": []
+        },
+        "session_id": "session_20250303_210336_30320"
+      }
+    ]
+  }
+}

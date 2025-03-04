@@ -1,0 +1,2614 @@
+{
+  "timestamp": 1741052063.9148262,
+  "snapshot_data": {
+    "enemy_spawn": [
+      {
+        "timestamp": 1741052062.9143267,
+        "category": "enemy_spawn",
+        "importance": "normal",
+        "data": {
+          "type": "water_splasher",
+          "id": 2647409248192,
+          "health": 20,
+          "damage": 1,
+          "position": {
+            "x": 677,
+            "y": 161
+          },
+          "area": "BEACH"
+        }
+      },
+      {
+        "timestamp": 1741052062.9156454,
+        "category": "enemy_spawn",
+        "importance": "normal",
+        "data": {
+          "type": "water_splasher",
+          "id": 2647409249248,
+          "health": 20,
+          "damage": 1,
+          "position": {
+            "x": 465,
+            "y": 156
+          },
+          "area": "BEACH"
+        }
+      },
+      {
+        "timestamp": 1741052062.91665,
+        "category": "enemy_spawn",
+        "importance": "normal",
+        "data": {
+          "type": "water_splasher",
+          "id": 2647409249344,
+          "health": 20,
+          "damage": 1,
+          "position": {
+            "x": 504,
+            "y": 88
+          },
+          "area": "BEACH"
+        }
+      },
+      {
+        "timestamp": 1741052062.91665,
+        "category": "enemy_spawn",
+        "importance": "normal",
+        "data": {
+          "type": "water_splasher",
+          "id": 2647409249488,
+          "health": 20,
+          "damage": 1,
+          "position": {
+            "x": 249,
+            "y": 369
+          },
+          "area": "BEACH"
+        }
+      },
+      {
+        "timestamp": 1741052062.91665,
+        "category": "enemy_spawn",
+        "importance": "normal",
+        "data": {
+          "type": "water_splasher",
+          "id": 2647409249632,
+          "health": 20,
+          "damage": 1,
+          "position": {
+            "x": 490,
+            "y": 168
+          },
+          "area": "BEACH"
+        }
+      },
+      {
+        "timestamp": 1741052062.9176607,
+        "category": "enemy_spawn",
+        "importance": "normal",
+        "data": {
+          "type": "water_splasher",
+          "id": 2647409249728,
+          "health": 20,
+          "damage": 1,
+          "position": {
+            "x": 667,
+            "y": 228
+          },
+          "area": "BEACH"
+        }
+      },
+      {
+        "timestamp": 1741052062.9176607,
+        "category": "enemy_spawn",
+        "importance": "normal",
+        "data": {
+          "type": "water_splasher",
+          "id": 2647409249872,
+          "health": 20,
+          "damage": 1,
+          "position": {
+            "x": 555,
+            "y": 164
+          },
+          "area": "BEACH"
+        }
+      },
+      {
+        "timestamp": 1741052062.9176607,
+        "category": "enemy_spawn",
+        "importance": "normal",
+        "data": {
+          "type": "water_splasher",
+          "id": 2647409249968,
+          "health": 20,
+          "damage": 1,
+          "position": {
+            "x": 510,
+            "y": 271
+          },
+          "area": "BEACH"
+        }
+      },
+      {
+        "timestamp": 1741052062.9176607,
+        "category": "enemy_spawn",
+        "importance": "normal",
+        "data": {
+          "type": "water_splasher",
+          "id": 2647409250112,
+          "health": 20,
+          "damage": 1,
+          "position": {
+            "x": 477,
+            "y": 460
+          },
+          "area": "BEACH"
+        }
+      },
+      {
+        "timestamp": 1741052062.9186606,
+        "category": "enemy_spawn",
+        "importance": "normal",
+        "data": {
+          "type": "water_splasher",
+          "id": 2647409250208,
+          "health": 20,
+          "damage": 1,
+          "position": {
+            "x": 311,
+            "y": 240
+          },
+          "area": "BEACH"
+        }
+      },
+      {
+        "timestamp": 1741052062.9186606,
+        "category": "enemy_spawn",
+        "importance": "normal",
+        "data": {
+          "type": "water_splasher",
+          "id": 2647409250304,
+          "health": 20,
+          "damage": 1,
+          "position": {
+            "x": 304,
+            "y": 104
+          },
+          "area": "BEACH"
+        }
+      },
+      {
+        "timestamp": 1741052062.9186606,
+        "category": "enemy_spawn",
+        "importance": "normal",
+        "data": {
+          "type": "water_splasher",
+          "id": 2647409250400,
+          "health": 20,
+          "damage": 1,
+          "position": {
+            "x": 173,
+            "y": 219
+          },
+          "area": "BEACH"
+        }
+      },
+      {
+        "timestamp": 1741052062.9186606,
+        "category": "enemy_spawn",
+        "importance": "normal",
+        "data": {
+          "type": "water_splasher",
+          "id": 2647409250496,
+          "health": 20,
+          "damage": 1,
+          "position": {
+            "x": 528,
+            "y": 197
+          },
+          "area": "BEACH"
+        }
+      },
+      {
+        "timestamp": 1741052062.9186606,
+        "category": "enemy_spawn",
+        "importance": "normal",
+        "data": {
+          "type": "water_splasher",
+          "id": 2647409250592,
+          "health": 20,
+          "damage": 1,
+          "position": {
+            "x": 473,
+            "y": 334
+          },
+          "area": "BEACH"
+        }
+      },
+      {
+        "timestamp": 1741052062.9201643,
+        "category": "enemy_spawn",
+        "importance": "normal",
+        "data": {
+          "type": "water_splasher",
+          "id": 2647409250688,
+          "health": 20,
+          "damage": 1,
+          "position": {
+            "x": 369,
+            "y": 125
+          },
+          "area": "BEACH"
+        }
+      }
+    ],
+    "enemies_spawned": [
+      {
+        "timestamp": 1741052062.9201643,
+        "category": "enemies_spawned",
+        "importance": "normal",
+        "data": {
+          "count": 15,
+          "area": "BEACH",
+          "types": [
+            "water_splasher",
+            "water_splasher",
+            "water_splasher",
+            "water_splasher",
+            "water_splasher",
+            "water_splasher",
+            "water_splasher",
+            "water_splasher",
+            "water_splasher",
+            "water_splasher",
+            "water_splasher",
+            "water_splasher",
+            "water_splasher",
+            "water_splasher",
+            "water_splasher"
+          ]
+        }
+      }
+    ],
+    "portal_created": [
+      {
+        "timestamp": 1741052062.9201643,
+        "category": "portal_created",
+        "importance": "normal",
+        "data": {
+          "source_area": "BEACH",
+          "target_area": "VOLCANO",
+          "position": {
+            "x": 700,
+            "y": 300
+          }
+        }
+      }
+    ],
+    "area_transition": [
+      {
+        "timestamp": 1741052062.9201643,
+        "category": "area_transition",
+        "importance": "high",
+        "data": {
+          "player_id": 2647409247712,
+          "old_area": "BEACH",
+          "new_area": "BEACH",
+          "player_health": 100,
+          "wetness": 0,
+          "has_obsidian_armor": false
+        }
+      }
+    ],
+    "splash_message": [
+      {
+        "timestamp": 1741052062.9201643,
+        "category": "splash_message",
+        "importance": "low",
+        "data": {
+          "message": "Entered BEACH",
+          "duration": 3.0
+        }
+      }
+    ],
+    "game_initialized": [
+      {
+        "timestamp": 1741052062.9367163,
+        "category": "game_initialized",
+        "importance": "high",
+        "data": {
+          "screen_size": [
+            800,
+            600
+          ],
+          "starting_area": "BEACH",
+          "fps": 60
+        }
+      }
+    ],
+    "player": [
+      {
+        "timestamp": 1741052062.9414604,
+        "category": "player",
+        "importance": "normal",
+        "data": {
+          "health": 100,
+          "max_health": 100,
+          "position": {
+            "x": 400,
+            "y": 300
+          },
+          "wetness": 0,
+          "fire_resistance": 0.0,
+          "has_obsidian_armor": false,
+          "obsidian_armor_level": 0,
+          "current_area": "BEACH",
+          "damage_dealt": 0,
+          "damage_taken": 0
+        }
+      },
+      {
+        "timestamp": 1741052063.1546917,
+        "category": "player",
+        "importance": "normal",
+        "data": {
+          "health": 100,
+          "max_health": 100,
+          "position": {
+            "x": 400,
+            "y": 300
+          },
+          "wetness": 0,
+          "fire_resistance": 0.0,
+          "has_obsidian_armor": false,
+          "obsidian_armor_level": 0,
+          "current_area": "BEACH",
+          "damage_dealt": 0,
+          "damage_taken": 0
+        }
+      },
+      {
+        "timestamp": 1741052063.2868152,
+        "category": "player",
+        "importance": "normal",
+        "data": {
+          "health": 95,
+          "max_health": 100,
+          "position": {
+            "x": 400,
+            "y": 300
+          },
+          "wetness": 9.4,
+          "fire_resistance": 8.55,
+          "has_obsidian_armor": false,
+          "obsidian_armor_level": 0,
+          "current_area": "BEACH",
+          "damage_dealt": 0,
+          "damage_taken": 5
+        }
+      },
+      {
+        "timestamp": 1741052063.4200895,
+        "category": "player",
+        "importance": "normal",
+        "data": {
+          "health": 89,
+          "max_health": 100,
+          "position": {
+            "x": 400,
+            "y": 300
+          },
+          "wetness": 20.599999999999998,
+          "fire_resistance": 18.63,
+          "has_obsidian_armor": false,
+          "obsidian_armor_level": 0,
+          "current_area": "BEACH",
+          "damage_dealt": 0,
+          "damage_taken": 11
+        }
+      },
+      {
+        "timestamp": 1741052063.4358516,
+        "category": "player",
+        "importance": "normal",
+        "data": {
+          "health": 88,
+          "max_health": 100,
+          "position": {
+            "x": 400,
+            "y": 300
+          },
+          "wetness": 22.499999999999996,
+          "fire_resistance": 20.34,
+          "has_obsidian_armor": false,
+          "obsidian_armor_level": 0,
+          "current_area": "BEACH",
+          "damage_dealt": 0,
+          "damage_taken": 12
+        }
+      },
+      {
+        "timestamp": 1741052063.4525268,
+        "category": "player",
+        "importance": "normal",
+        "data": {
+          "health": 87,
+          "max_health": 100,
+          "position": {
+            "x": 400,
+            "y": 300
+          },
+          "wetness": 24.399999999999995,
+          "fire_resistance": 22.049999999999997,
+          "has_obsidian_armor": false,
+          "obsidian_armor_level": 0,
+          "current_area": "BEACH",
+          "damage_dealt": 0,
+          "damage_taken": 13
+        }
+      }
+    ],
+    "player_damage": [
+      {
+        "timestamp": 1741052063.1890996,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 99,
+          "wetness": 2,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.2042737,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 98,
+          "wetness": 3.9,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.2208052,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 97,
+          "wetness": 5.8,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.2374523,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 96,
+          "wetness": 7.7,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.2712214,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 95,
+          "wetness": 9.5,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:1.9999999999999991"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.2868152,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 94,
+          "wetness": 11.4,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.3038466,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 93,
+          "wetness": 13.3,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.3378117,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 92,
+          "wetness": 15.100000000000001,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.3713915,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 91,
+          "wetness": 16.900000000000002,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.3876493,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 90,
+          "wetness": 18.8,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.4038827,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 89,
+          "wetness": 20.7,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.4200895,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 88,
+          "wetness": 22.599999999999998,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.4358516,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 87,
+          "wetness": 24.499999999999996,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.4530306,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 86,
+          "wetness": 26.399999999999995,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.4687169,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 85,
+          "wetness": 28.299999999999994,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.4857402,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 84,
+          "wetness": 30.199999999999992,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.5021772,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 83,
+          "wetness": 32.099999999999994,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0000000000000036"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.5183766,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 82,
+          "wetness": 33.99999999999999,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.5348642,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 81,
+          "wetness": 35.89999999999999,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.5515106,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 80,
+          "wetness": 37.79999999999999,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.5678322,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 79,
+          "wetness": 39.69999999999999,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.5841782,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 78,
+          "wetness": 41.59999999999999,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.6002765,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 77,
+          "wetness": 43.499999999999986,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.6177897,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 76,
+          "wetness": 45.399999999999984,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.6340673,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 75,
+          "wetness": 47.29999999999998,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.6666117,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 74,
+          "wetness": 49.09999999999998,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.68366,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 73,
+          "wetness": 50.99999999999998,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.6846611,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 72,
+          "wetness": 52.99999999999998,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.7001157,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 71,
+          "wetness": 54.89999999999998,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.7001157,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 70,
+          "wetness": 56.89999999999998,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.7172446,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 69,
+          "wetness": 58.799999999999976,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.7172446,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 68,
+          "wetness": 60.799999999999976,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.7326748,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 67,
+          "wetness": 62.699999999999974,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.7326748,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 66,
+          "wetness": 64.69999999999997,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.7486901,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 65,
+          "wetness": 66.59999999999998,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.7486901,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 64,
+          "wetness": 68.59999999999998,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.7501934,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 63,
+          "wetness": 70.59999999999998,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.7657592,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 62,
+          "wetness": 72.49999999999999,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.7657592,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 61,
+          "wetness": 74.49999999999999,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.7667592,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 60,
+          "wetness": 76.49999999999999,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.7825642,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 59,
+          "wetness": 78.39999999999999,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.7837572,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 58,
+          "wetness": 80.39999999999999,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.7988176,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 57,
+          "wetness": 82.3,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.7998214,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 56,
+          "wetness": 84.3,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.8003297,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 55,
+          "wetness": 86.3,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.8155823,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 54,
+          "wetness": 88.2,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.8165839,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 53,
+          "wetness": 90.2,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.8326378,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 52,
+          "wetness": 92.10000000000001,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.8326378,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 51,
+          "wetness": 94.10000000000001,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.8336468,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 50,
+          "wetness": 96.10000000000001,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.8487415,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 49,
+          "wetness": 98.00000000000001,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.8487415,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 48,
+          "wetness": 100,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:1.9999999999999858"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.8502495,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 47,
+          "wetness": 100,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.8649879,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 46,
+          "wetness": 100,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:0.09999999999999432"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.8649879,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 45,
+          "wetness": 100,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.8820083,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 44,
+          "wetness": 100,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:0.09999999999999432"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.8825603,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 43,
+          "wetness": 100,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.8825603,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 42,
+          "wetness": 100,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.8986332,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 41,
+          "wetness": 100,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:0.09999999999999432"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.8991392,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 40,
+          "wetness": 100,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.9148262,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 39,
+          "wetness": 100,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:0.09999999999999432"
+          ]
+        }
+      }
+    ],
+    "combat": [
+      {
+        "timestamp": 1741052063.1896117,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250592,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.2047765,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250592,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.2208052,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250592,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.2379549,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250592,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.2712214,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250592,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:1.9999999999999991"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.2868152,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250592,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.3038466,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250592,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.3383176,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250592,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.3713915,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250592,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.3876493,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250592,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.4038827,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250592,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.4211054,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250592,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.4358516,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250592,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.4530306,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250592,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.4692194,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250592,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.4857402,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250592,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.5021772,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250592,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0000000000000036"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.5183766,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250592,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.5348642,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250592,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.5515106,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250592,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.5678322,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250592,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.5841782,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250592,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.6002765,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250592,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.6177897,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250592,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.634571,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250592,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.6666117,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250592,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.68366,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409249248,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.6846611,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250592,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.7001157,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250496,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.70159,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250592,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.7172446,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250496,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.7172446,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250592,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.7326748,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409249248,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.733748,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250592,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.7486901,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409249248,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.7486901,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250496,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.7501934,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250592,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.7657592,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409249248,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.7667592,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250496,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.7672625,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250592,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.7825642,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409249248,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.7837572,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250592,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.7988176,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409249248,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.7998214,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250496,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.8003297,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250592,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.8155823,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409249248,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.8165839,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250496,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.8326378,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409249248,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.8336468,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250496,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.8336468,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250592,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.8487415,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409249248,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2.0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.8502495,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250496,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:1.9999999999999858"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.8502495,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250592,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.8649879,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409249248,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:0.09999999999999432"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.8649879,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250496,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.8825603,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409249248,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:0.09999999999999432"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.8825603,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250496,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.88357,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250592,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.8991392,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409249248,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:0.09999999999999432"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052063.8991392,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2647409250496,
+          "defender": "player",
+          "defender_id": 2647409247712,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:0"
+          ]
+        }
+      }
+    ],
+    "attack_missed": [
+      {
+        "timestamp": 1741052063.2539873,
+        "category": "attack_missed",
+        "importance": "normal",
+        "data": {
+          "attacker": "water_splasher",
+          "target": "player"
+        }
+      },
+      {
+        "timestamp": 1741052063.3204975,
+        "category": "attack_missed",
+        "importance": "normal",
+        "data": {
+          "attacker": "water_splasher",
+          "target": "player"
+        }
+      },
+      {
+        "timestamp": 1741052063.3551967,
+        "category": "attack_missed",
+        "importance": "normal",
+        "data": {
+          "attacker": "water_splasher",
+          "target": "player"
+        }
+      },
+      {
+        "timestamp": 1741052063.6504014,
+        "category": "attack_missed",
+        "importance": "normal",
+        "data": {
+          "attacker": "water_splasher",
+          "target": "player"
+        }
+      },
+      {
+        "timestamp": 1741052063.7001157,
+        "category": "attack_missed",
+        "importance": "normal",
+        "data": {
+          "attacker": "water_splasher",
+          "target": "player"
+        }
+      },
+      {
+        "timestamp": 1741052063.7167294,
+        "category": "attack_missed",
+        "importance": "normal",
+        "data": {
+          "attacker": "water_splasher",
+          "target": "player"
+        }
+      },
+      {
+        "timestamp": 1741052063.7326748,
+        "category": "attack_missed",
+        "importance": "normal",
+        "data": {
+          "attacker": "water_splasher",
+          "target": "player"
+        }
+      },
+      {
+        "timestamp": 1741052063.7837572,
+        "category": "attack_missed",
+        "importance": "normal",
+        "data": {
+          "attacker": "water_splasher",
+          "target": "player"
+        }
+      },
+      {
+        "timestamp": 1741052063.8170884,
+        "category": "attack_missed",
+        "importance": "normal",
+        "data": {
+          "attacker": "water_splasher",
+          "target": "player"
+        }
+      },
+      {
+        "timestamp": 1741052063.8664913,
+        "category": "attack_missed",
+        "importance": "normal",
+        "data": {
+          "attacker": "water_splasher",
+          "target": "player"
+        }
+      },
+      {
+        "timestamp": 1741052063.8991392,
+        "category": "attack_missed",
+        "importance": "normal",
+        "data": {
+          "attacker": "water_splasher",
+          "target": "player"
+        }
+      }
+    ]
+  }
+}

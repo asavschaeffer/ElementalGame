@@ -1,0 +1,237 @@
+{
+  "timestamp": 1741063495.227954,
+  "snapshot_time": "20250303_204455",
+  "session_id": "session_20250303_204454_29936",
+  "snapshot_data": {
+    "player": [
+      {
+        "timestamp": 1741063495.21406,
+        "category": "player",
+        "importance": "normal",
+        "data": {
+          "health": 100,
+          "max_health": 100,
+          "position": {
+            "x": 400,
+            "y": 300
+          },
+          "wetness": 0,
+          "fire_resistance": 0,
+          "has_obsidian_armor": false,
+          "obsidian_armor_level": 0,
+          "current_area": "BEACH",
+          "damage_dealt": 0,
+          "damage_taken": 0
+        },
+        "session_id": "session_20250303_204454_29936"
+      }
+    ],
+    "tutorial_initialized": [
+      {
+        "timestamp": 1741063495.2243602,
+        "category": "tutorial_initialized",
+        "importance": "normal",
+        "data": {
+          "total_steps": 11
+        },
+        "session_id": "session_20250303_204454_29936"
+      }
+    ],
+    "DEV_portal_created": [
+      {
+        "timestamp": 1741063495.2243602,
+        "category": "DEV_portal_created",
+        "importance": "normal",
+        "data": {
+          "source_area": "BEACH",
+          "target_area": "VOLCANO",
+          "position": {
+            "x": 700,
+            "y": 300
+          }
+        },
+        "session_id": "session_20250303_204454_29936"
+      }
+    ],
+    "area_transition": [
+      {
+        "timestamp": 1741063495.2243602,
+        "category": "area_transition",
+        "importance": "high",
+        "data": {
+          "player_id": 1629834691152,
+          "old_area": "BEACH",
+          "new_area": "BEACH",
+          "player_health": 100,
+          "wetness": 0,
+          "has_obsidian_armor": false
+        },
+        "session_id": "session_20250303_204454_29936"
+      }
+    ],
+    "splash_message": [
+      {
+        "timestamp": 1741063495.2254324,
+        "category": "splash_message",
+        "importance": "low",
+        "data": {
+          "message": "Entered BEACH",
+          "duration": 3.0
+        },
+        "session_id": "session_20250303_204454_29936"
+      }
+    ],
+    "game_initialized": [
+      {
+        "timestamp": 1741063495.2254324,
+        "category": "game_initialized",
+        "importance": "high",
+        "data": {
+          "screen_size": [
+            800,
+            600
+          ],
+          "starting_area": "BEACH",
+          "fps": 60,
+          "tutorial_enabled": true
+        },
+        "session_id": "session_20250303_204454_29936"
+      }
+    ],
+    "PERF_game_loop_start": [
+      {
+        "timestamp": 1741063495.2254324,
+        "category": "PERF_game_loop_start",
+        "importance": "high",
+        "data": {
+          "timestamp": 1741063495.2254324,
+          "memory_usage": 48,
+          "active_sprites": 2,
+          "active_enemies": 0,
+          "active_portals": 1,
+          "tutorial_active": false,
+          "current_area": "BEACH"
+        },
+        "session_id": "session_20250303_204454_29936"
+      }
+    ],
+    "STATE_input": [
+      {
+        "timestamp": 1741063495.2274475,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 1,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              0,
+              0
+            ]
+          },
+          "events_count": 12,
+          "quit_requested": false,
+          "processing_time_ms": 1.5039443969726562
+        },
+        "session_id": "session_20250303_204454_29936"
+      }
+    ],
+    "PERF_update_start": [
+      {
+        "timestamp": 1741063495.227954,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 1,
+          "time": 1741063495.227954,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 0
+        },
+        "session_id": "session_20250303_204454_29936"
+      }
+    ],
+    "DEV_game_crash": [
+      {
+        "timestamp": 1741063495.227954,
+        "category": "DEV_game_crash",
+        "importance": "critical",
+        "data": {
+          "error": "cannot import name 'WaterSplasher' from 'entities' (C:\\Users\\18312\\CascadeProjects\\ElementalGame\\entities.py)",
+          "error_type": "ImportError",
+          "traceback": "(<class 'ImportError'>, ImportError(\"cannot import name 'WaterSplasher' from 'entities' (C:\\\\Users\\\\18312\\\\CascadeProjects\\\\ElementalGame\\\\entities.py)\"), <traceback object at 0x0000017B79B86B40>)",
+          "frame": 1,
+          "last_input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              0,
+              0
+            ]
+          },
+          "game_state": {
+            "area": "BEACH",
+            "player_state": {
+              "health": 100,
+              "wetness": 0,
+              "obsidian_armor": 0,
+              "position": [
+                400,
+                300
+              ]
+            },
+            "enemy_count": 0,
+            "tutorial_active": false
+          },
+          "performance": {
+            "last_fps": null,
+            "avg_fps": null,
+            "last_frame_time": null
+          }
+        },
+        "session_id": "session_20250303_204454_29936"
+      }
+    ],
+    "PERF_game_shutdown": [
+      {
+        "timestamp": 1741063495.227954,
+        "category": "PERF_game_shutdown",
+        "importance": "high",
+        "data": {
+          "playtime": 0.002521514892578125,
+          "final_area": "BEACH",
+          "player_health": 100,
+          "total_frames": 1,
+          "avg_fps": null,
+          "final_state": "quit",
+          "performance_summary": {
+            "lowest_fps": null,
+            "highest_fps": null,
+            "final_fps": null,
+            "estimated_frames_dropped": 0.8487091064453125
+          }
+        },
+        "session_id": "session_20250303_204454_29936"
+      }
+    ]
+  }
+}

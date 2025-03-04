@@ -1,0 +1,194 @@
+{
+  "timestamp": 1741052160.0898435,
+  "snapshot_data": {
+    "combat": [
+      {
+        "timestamp": 1741052160.039506,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2232750591568,
+          "defender": "player",
+          "defender_id": 2232750589408,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:0.09999999999999432"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052160.0400171,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2232750592000,
+          "defender": "player",
+          "defender_id": 2232750589408,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052160.0410304,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2232750592192,
+          "defender": "player",
+          "defender_id": 2232750589408,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:0"
+          ]
+        }
+      }
+    ],
+    "attack_missed": [
+      {
+        "timestamp": 1741052160.0400171,
+        "category": "attack_missed",
+        "importance": "normal",
+        "data": {
+          "attacker": "water_splasher",
+          "target": "player"
+        }
+      }
+    ],
+    "player_damage": [
+      {
+        "timestamp": 1741052160.0400171,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": -8,
+          "wetness": 100,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:0"
+          ]
+        }
+      },
+      {
+        "timestamp": 1741052160.0410304,
+        "category": "player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": -9,
+          "wetness": 100,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:0"
+          ]
+        }
+      }
+    ],
+    "environment": [
+      {
+        "timestamp": 1741052160.0410304,
+        "category": "environment",
+        "importance": "normal",
+        "data": {
+          "area": "BEACH",
+          "enemy_count": 15,
+          "enemy_types": [
+            "water_splasher",
+            "water_splasher",
+            "water_splasher",
+            "water_splasher",
+            "water_splasher",
+            "water_splasher",
+            "water_splasher",
+            "water_splasher",
+            "water_splasher",
+            "water_splasher",
+            "water_splasher",
+            "water_splasher",
+            "water_splasher",
+            "water_splasher",
+            "water_splasher"
+          ],
+          "hazards": []
+        }
+      }
+    ],
+    "player": [
+      {
+        "timestamp": 1741052160.0410304,
+        "category": "player",
+        "importance": "normal",
+        "data": {
+          "health": -9,
+          "max_health": 100,
+          "position": {
+            "x": 400,
+            "y": 300
+          },
+          "wetness": 100,
+          "fire_resistance": 90.0,
+          "has_obsidian_armor": false,
+          "obsidian_armor_level": 0,
+          "current_area": "BEACH",
+          "damage_dealt": 0,
+          "damage_taken": 109
+        }
+      }
+    ],
+    "splash_message": [
+      {
+        "timestamp": 1741052160.0420296,
+        "category": "splash_message",
+        "importance": "low",
+        "data": {
+          "message": "Game Over! You died.",
+          "duration": 5.0
+        }
+      }
+    ],
+    "game_over": [
+      {
+        "timestamp": 1741052160.0420296,
+        "category": "game_over",
+        "importance": "critical",
+        "data": {
+          "reason": "player_died",
+          "area": "BEACH",
+          "enemy_count": 15,
+          "playtime": 1.010495901107788
+        }
+      }
+    ],
+    "game_shutdown": [
+      {
+        "timestamp": 1741052160.0898435,
+        "category": "game_shutdown",
+        "importance": "high",
+        "data": {
+          "playtime": 1.0593090057373047,
+          "final_area": "BEACH",
+          "player_health": -9,
+          "final_state": "quit"
+        }
+      }
+    ]
+  }
+}

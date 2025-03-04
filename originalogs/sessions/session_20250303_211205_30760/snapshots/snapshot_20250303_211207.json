@@ -1,0 +1,78 @@
+{
+  "timestamp": 1741065127.3531291,
+  "snapshot_time": "20250303_211207",
+  "session_id": "session_20250303_211205_30760",
+  "snapshot_data": {
+    "DEV_enemy_movement": [
+      {
+        "timestamp": 1741065127.3531291,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1755440690704,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 491,
+            "y": 298
+          },
+          "new_position": {
+            "x": 490,
+            "y": 298
+          },
+          "delta": {
+            "dx": -0.9997637888239163,
+            "dy": 0.02173399540921574
+          },
+          "speed": 1.0,
+          "direction": 3.1198569467480004,
+          "direction_changed": false,
+          "moving_toward_player": false
+        },
+        "session_id": "session_20250303_211205_30760"
+      },
+      {
+        "timestamp": 1741065127.3531291,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1755440690272,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 707,
+            "y": 300
+          },
+          "new_position": {
+            "x": 706,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_211205_30760"
+      }
+    ],
+    "environment": [
+      {
+        "timestamp": 1741065127.3531291,
+        "category": "environment",
+        "importance": "normal",
+        "data": {
+          "area": "BEACH",
+          "enemy_count": 2,
+          "enemy_types": [
+            "water_splasher",
+            "lava_splasher"
+          ],
+          "hazards": []
+        },
+        "session_id": "session_20250303_211205_30760"
+      }
+    ]
+  }
+}

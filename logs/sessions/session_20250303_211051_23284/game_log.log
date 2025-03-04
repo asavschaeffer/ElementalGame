@@ -1,0 +1,11 @@
+2025-03-03 21:10:51.732 | INFO | Game Logger initialized for session: session_20250303_211051_23284
+2025-03-03 21:10:52.058 | WARNING | [STATE_player_initialized] {"position": {"x": 400, "y": 300}, "health": 100, "max_health": 100, "speed": 5, "damage": 10, "wetness": 0, "fire_resistance": 0, "obsidian_armor": 0, "current_area": "BEACH", "session_id": 2361364715824, "memory_size": 48}
+2025-03-03 21:10:52.060 | DEBUG | Created game state snapshot: logs\sessions\session_20250303_211051_23284\snapshots\snapshot_20250303_211052.json
+2025-03-03 21:10:52.060 | INFO | [player] {"health": 100, "max_health": 100, "position": {"x": 400, "y": 300}, "wetness": 0, "fire_resistance": 0, "has_obsidian_armor": false, "obsidian_armor_level": 0, "current_area": "BEACH", "damage_dealt": 0, "damage_taken": 0}
+2025-03-03 21:10:52.066 | INFO | [tutorial_initialized] {"total_steps": 11}
+2025-03-03 21:10:52.068 | INFO | [DEV_portal_created] {"source_area": "BEACH", "target_area": "VOLCANO", "position": {"x": 700, "y": 300}}
+2025-03-03 21:10:52.068 | WARNING | [area_transition] {"player_id": 2361364715824, "old_area": "BEACH", "new_area": "BEACH", "player_health": 100, "wetness": 0, "has_obsidian_armor": false}
+2025-03-03 21:10:52.068 | DEBUG | [splash_message] {"message": "Entered BEACH", "duration": 3.0}
+2025-03-03 21:10:52.068 | WARNING | [game_initialized] {"screen_size": [800, 600], "starting_area": "BEACH", "fps": 60, "tutorial_enabled": true}
+2025-03-03 21:10:52.090 | DEBUG | Compressed 7 log entries to logs\sessions\session_20250303_211051_23284\cache\chunk_1741065052090.gz
+2025-03-03 21:10:52.092 | DEBUG | Session session_20250303_211051_23284 cache finalized

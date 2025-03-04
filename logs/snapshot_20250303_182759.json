@@ -1,0 +1,28 @@
+{
+  "timestamp": 1741055279.0179727,
+  "snapshot_data": {
+    "player": [
+      {
+        "timestamp": 1741055279.0164633,
+        "category": "player",
+        "importance": "normal",
+        "data": {
+          "health": 100,
+          "max_health": 100,
+          "position": {
+            "x": 400,
+            "y": 300
+          },
+          "wetness": 0,
+          "fire_resistance": 0,
+          "has_obsidian_armor": false,
+          "obsidian_armor_level": 0,
+          "current_area": "BEACH",
+          "damage_dealt": 0,
+          "damage_taken": 0
+        },
+        "session_id": "session_20250303_182758_33568"
+      }
+    ]
+  }
+}

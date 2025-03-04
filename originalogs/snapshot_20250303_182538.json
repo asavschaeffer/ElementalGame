@@ -1,0 +1,420 @@
+{
+  "timestamp": 1741055138.593757,
+  "snapshot_data": {
+    "enemy_spawn": [
+      {
+        "timestamp": 1741055138.537559,
+        "category": "enemy_spawn",
+        "importance": "normal",
+        "data": {
+          "type": "water_splasher",
+          "id": 2546607653840,
+          "health": 20,
+          "damage": 1,
+          "position": {
+            "x": 224,
+            "y": 53
+          },
+          "area": "BEACH"
+        },
+        "session_id": "session_20250303_182538_29880"
+      },
+      {
+        "timestamp": 1741055138.537559,
+        "category": "enemy_spawn",
+        "importance": "normal",
+        "data": {
+          "type": "water_splasher",
+          "id": 2546607654944,
+          "health": 20,
+          "damage": 1,
+          "position": {
+            "x": 113,
+            "y": 385
+          },
+          "area": "BEACH"
+        },
+        "session_id": "session_20250303_182538_29880"
+      },
+      {
+        "timestamp": 1741055138.5390425,
+        "category": "enemy_spawn",
+        "importance": "normal",
+        "data": {
+          "type": "water_splasher",
+          "id": 2546607655040,
+          "health": 20,
+          "damage": 1,
+          "position": {
+            "x": 631,
+            "y": 417
+          },
+          "area": "BEACH"
+        },
+        "session_id": "session_20250303_182538_29880"
+      },
+      {
+        "timestamp": 1741055138.5390425,
+        "category": "enemy_spawn",
+        "importance": "normal",
+        "data": {
+          "type": "water_splasher",
+          "id": 2546607655184,
+          "health": 20,
+          "damage": 1,
+          "position": {
+            "x": 143,
+            "y": 265
+          },
+          "area": "BEACH"
+        },
+        "session_id": "session_20250303_182538_29880"
+      },
+      {
+        "timestamp": 1741055138.5395474,
+        "category": "enemy_spawn",
+        "importance": "normal",
+        "data": {
+          "type": "water_splasher",
+          "id": 2546607655280,
+          "health": 20,
+          "damage": 1,
+          "position": {
+            "x": 206,
+            "y": 280
+          },
+          "area": "BEACH"
+        },
+        "session_id": "session_20250303_182538_29880"
+      },
+      {
+        "timestamp": 1741055138.5395474,
+        "category": "enemy_spawn",
+        "importance": "normal",
+        "data": {
+          "type": "water_splasher",
+          "id": 2546607655568,
+          "health": 20,
+          "damage": 1,
+          "position": {
+            "x": 376,
+            "y": 445
+          },
+          "area": "BEACH"
+        },
+        "session_id": "session_20250303_182538_29880"
+      },
+      {
+        "timestamp": 1741055138.5395474,
+        "category": "enemy_spawn",
+        "importance": "normal",
+        "data": {
+          "type": "water_splasher",
+          "id": 2546607655760,
+          "health": 20,
+          "damage": 1,
+          "position": {
+            "x": 86,
+            "y": 140
+          },
+          "area": "BEACH"
+        },
+        "session_id": "session_20250303_182538_29880"
+      },
+      {
+        "timestamp": 1741055138.5395474,
+        "category": "enemy_spawn",
+        "importance": "normal",
+        "data": {
+          "type": "water_splasher",
+          "id": 2546607655904,
+          "health": 20,
+          "damage": 1,
+          "position": {
+            "x": 441,
+            "y": 275
+          },
+          "area": "BEACH"
+        },
+        "session_id": "session_20250303_182538_29880"
+      },
+      {
+        "timestamp": 1741055138.5395474,
+        "category": "enemy_spawn",
+        "importance": "normal",
+        "data": {
+          "type": "water_splasher",
+          "id": 2546607656048,
+          "health": 20,
+          "damage": 1,
+          "position": {
+            "x": 543,
+            "y": 210
+          },
+          "area": "BEACH"
+        },
+        "session_id": "session_20250303_182538_29880"
+      },
+      {
+        "timestamp": 1741055138.5395474,
+        "category": "enemy_spawn",
+        "importance": "normal",
+        "data": {
+          "type": "water_splasher",
+          "id": 2546607656192,
+          "health": 20,
+          "damage": 1,
+          "position": {
+            "x": 55,
+            "y": 427
+          },
+          "area": "BEACH"
+        },
+        "session_id": "session_20250303_182538_29880"
+      },
+      {
+        "timestamp": 1741055138.5395474,
+        "category": "enemy_spawn",
+        "importance": "normal",
+        "data": {
+          "type": "water_splasher",
+          "id": 2546607656336,
+          "health": 20,
+          "damage": 1,
+          "position": {
+            "x": 296,
+            "y": 52
+          },
+          "area": "BEACH"
+        },
+        "session_id": "session_20250303_182538_29880"
+      },
+      {
+        "timestamp": 1741055138.540578,
+        "category": "enemy_spawn",
+        "importance": "normal",
+        "data": {
+          "type": "water_splasher",
+          "id": 2546607656528,
+          "health": 20,
+          "damage": 1,
+          "position": {
+            "x": 205,
+            "y": 67
+          },
+          "area": "BEACH"
+        },
+        "session_id": "session_20250303_182538_29880"
+      },
+      {
+        "timestamp": 1741055138.540578,
+        "category": "enemy_spawn",
+        "importance": "normal",
+        "data": {
+          "type": "water_splasher",
+          "id": 2546607656672,
+          "health": 20,
+          "damage": 1,
+          "position": {
+            "x": 694,
+            "y": 179
+          },
+          "area": "BEACH"
+        },
+        "session_id": "session_20250303_182538_29880"
+      },
+      {
+        "timestamp": 1741055138.540578,
+        "category": "enemy_spawn",
+        "importance": "normal",
+        "data": {
+          "type": "water_splasher",
+          "id": 2546607656816,
+          "health": 20,
+          "damage": 1,
+          "position": {
+            "x": 143,
+            "y": 466
+          },
+          "area": "BEACH"
+        },
+        "session_id": "session_20250303_182538_29880"
+      },
+      {
+        "timestamp": 1741055138.540578,
+        "category": "enemy_spawn",
+        "importance": "normal",
+        "data": {
+          "type": "water_splasher",
+          "id": 2546607656960,
+          "health": 20,
+          "damage": 1,
+          "position": {
+            "x": 384,
+            "y": 438
+          },
+          "area": "BEACH"
+        },
+        "session_id": "session_20250303_182538_29880"
+      }
+    ],
+    "enemies_spawned": [
+      {
+        "timestamp": 1741055138.540578,
+        "category": "enemies_spawned",
+        "importance": "normal",
+        "data": {
+          "count": 15,
+          "area": "BEACH",
+          "types": [
+            "water_splasher",
+            "water_splasher",
+            "water_splasher",
+            "water_splasher",
+            "water_splasher",
+            "water_splasher",
+            "water_splasher",
+            "water_splasher",
+            "water_splasher",
+            "water_splasher",
+            "water_splasher",
+            "water_splasher",
+            "water_splasher",
+            "water_splasher",
+            "water_splasher"
+          ]
+        },
+        "session_id": "session_20250303_182538_29880"
+      }
+    ],
+    "portal_created": [
+      {
+        "timestamp": 1741055138.540578,
+        "category": "portal_created",
+        "importance": "normal",
+        "data": {
+          "source_area": "BEACH",
+          "target_area": "VOLCANO",
+          "position": {
+            "x": 700,
+            "y": 300
+          }
+        },
+        "session_id": "session_20250303_182538_29880"
+      }
+    ],
+    "area_transition": [
+      {
+        "timestamp": 1741055138.5415812,
+        "category": "area_transition",
+        "importance": "high",
+        "data": {
+          "player_id": 2546607653360,
+          "old_area": "BEACH",
+          "new_area": "BEACH",
+          "player_health": 100,
+          "wetness": 0,
+          "has_obsidian_armor": false
+        },
+        "session_id": "session_20250303_182538_29880"
+      }
+    ],
+    "splash_message": [
+      {
+        "timestamp": 1741055138.5415812,
+        "category": "splash_message",
+        "importance": "low",
+        "data": {
+          "message": "Entered BEACH",
+          "duration": 3.0
+        },
+        "session_id": "session_20250303_182538_29880"
+      }
+    ],
+    "tutorial_initialized": [
+      {
+        "timestamp": 1741055138.548349,
+        "category": "tutorial_initialized",
+        "importance": "normal",
+        "data": {
+          "total_steps": 7
+        },
+        "session_id": "session_20250303_182538_29880"
+      }
+    ],
+    "game_initialized": [
+      {
+        "timestamp": 1741055138.548349,
+        "category": "game_initialized",
+        "importance": "high",
+        "data": {
+          "screen_size": [
+            800,
+            600
+          ],
+          "starting_area": "BEACH",
+          "fps": 60,
+          "tutorial_enabled": true
+        },
+        "session_id": "session_20250303_182538_29880"
+      }
+    ],
+    "player": [
+      {
+        "timestamp": 1741055138.5503554,
+        "category": "player",
+        "importance": "normal",
+        "data": {
+          "health": 100,
+          "max_health": 100,
+          "position": {
+            "x": 400,
+            "y": 300
+          },
+          "wetness": 0,
+          "fire_resistance": 0.0,
+          "has_obsidian_armor": false,
+          "obsidian_armor_level": 0,
+          "current_area": "BEACH",
+          "damage_dealt": 0,
+          "damage_taken": 0
+        },
+        "session_id": "session_20250303_182538_29880"
+      }
+    ],
+    "game_crash": [
+      {
+        "timestamp": 1741055138.5503554,
+        "category": "game_crash",
+        "importance": "critical",
+        "data": {
+          "error": "'Game' object has no attribute 'check_portal_collisions'",
+          "traceback": "(<class 'AttributeError'>, AttributeError(\"'Game' object has no attribute 'check_portal_collisions'\"), <traceback object at 0x00000250EC50E240>)",
+          "area": "BEACH",
+          "player_state": {
+            "health": 100,
+            "wetness": 0,
+            "obsidian_armor": 0
+          },
+          "frame_count": 0
+        },
+        "session_id": "session_20250303_182538_29880"
+      }
+    ],
+    "game_shutdown": [
+      {
+        "timestamp": 1741055138.5927489,
+        "category": "game_shutdown",
+        "importance": "high",
+        "data": {
+          "playtime": 0.04569411277770996,
+          "final_area": "BEACH",
+          "player_health": 100,
+          "total_frames": 0,
+          "final_state": "quit"
+        },
+        "session_id": "session_20250303_182538_29880"
+      }
+    ]
+  }
+}

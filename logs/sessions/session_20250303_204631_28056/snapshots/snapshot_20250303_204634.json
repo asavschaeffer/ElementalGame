@@ -1,0 +1,603 @@
+{
+  "timestamp": 1741063594.1822853,
+  "snapshot_time": "20250303_204634",
+  "session_id": "session_20250303_204631_28056",
+  "snapshot_data": {
+    "PERF_update_start": [
+      {
+        "timestamp": 1741063594.1552408,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 119,
+          "time": 1741063594.1552408,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_204631_28056"
+      },
+      {
+        "timestamp": 1741063594.1617098,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 120,
+          "time": 1741063594.1617098,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_204631_28056"
+      },
+      {
+        "timestamp": 1741063594.181258,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 121,
+          "time": 1741063594.181258,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_204631_28056"
+      }
+    ],
+    "DEV_enemy_movement": [
+      {
+        "timestamp": 1741063594.1552408,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 2179319098304,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 433,
+            "y": 300
+          },
+          "new_position": {
+            "x": 432,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_204631_28056"
+      },
+      {
+        "timestamp": 1741063594.1557438,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 2179319098208,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 651,
+            "y": 300
+          },
+          "new_position": {
+            "x": 650,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": false
+        },
+        "session_id": "session_20250303_204631_28056"
+      },
+      {
+        "timestamp": 1741063594.1617098,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 2179319098304,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 432,
+            "y": 300
+          },
+          "new_position": {
+            "x": 431,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": false
+        },
+        "session_id": "session_20250303_204631_28056"
+      },
+      {
+        "timestamp": 1741063594.1622174,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 2179319098208,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 650,
+            "y": 300
+          },
+          "new_position": {
+            "x": 649,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_204631_28056"
+      },
+      {
+        "timestamp": 1741063594.181258,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 2179319098304,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 431,
+            "y": 300
+          },
+          "new_position": {
+            "x": 430,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": false
+        },
+        "session_id": "session_20250303_204631_28056"
+      },
+      {
+        "timestamp": 1741063594.1822853,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 2179319098208,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 649,
+            "y": 300
+          },
+          "new_position": {
+            "x": 648,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_204631_28056"
+      }
+    ],
+    "DEV_enemy_player_collision": [
+      {
+        "timestamp": 1741063594.1552408,
+        "category": "DEV_enemy_player_collision",
+        "importance": "normal",
+        "data": {
+          "enemy_id": 2179319098304,
+          "enemy_type": "water_splasher",
+          "enemy_position": {
+            "x": 432,
+            "y": 300
+          },
+          "player_position": {
+            "x": 400,
+            "y": 300
+          },
+          "distance": 33.0,
+          "collision_detected": true
+        },
+        "session_id": "session_20250303_204631_28056"
+      },
+      {
+        "timestamp": 1741063594.1617098,
+        "category": "DEV_enemy_player_collision",
+        "importance": "normal",
+        "data": {
+          "enemy_id": 2179319098304,
+          "enemy_type": "water_splasher",
+          "enemy_position": {
+            "x": 431,
+            "y": 300
+          },
+          "player_position": {
+            "x": 400,
+            "y": 300
+          },
+          "distance": 32.0,
+          "collision_detected": true
+        },
+        "session_id": "session_20250303_204631_28056"
+      },
+      {
+        "timestamp": 1741063594.181258,
+        "category": "DEV_enemy_player_collision",
+        "importance": "normal",
+        "data": {
+          "enemy_id": 2179319098304,
+          "enemy_type": "water_splasher",
+          "enemy_position": {
+            "x": 430,
+            "y": 300
+          },
+          "player_position": {
+            "x": 400,
+            "y": 300
+          },
+          "distance": 31.0,
+          "collision_detected": true
+        },
+        "session_id": "session_20250303_204631_28056"
+      }
+    ],
+    "DEV_enemy_attack_initiate": [
+      {
+        "timestamp": 1741063594.1552408,
+        "category": "DEV_enemy_attack_initiate",
+        "importance": "high",
+        "data": {
+          "enemy_id": 2179319098304,
+          "enemy_type": "water_splasher",
+          "damage_type": "water",
+          "base_damage": 1,
+          "player_health": 94,
+          "player_wetness": 12,
+          "player_fire_resistance": 0.0,
+          "player_obsidian": 0,
+          "timestamp": 1741063594.1552408
+        },
+        "session_id": "session_20250303_204631_28056"
+      },
+      {
+        "timestamp": 1741063594.1622174,
+        "category": "DEV_enemy_attack_initiate",
+        "importance": "high",
+        "data": {
+          "enemy_id": 2179319098304,
+          "enemy_type": "water_splasher",
+          "damage_type": "water",
+          "base_damage": 1,
+          "player_health": 94,
+          "player_wetness": 12,
+          "player_fire_resistance": 0.0,
+          "player_obsidian": 0,
+          "timestamp": 1741063594.1622174
+        },
+        "session_id": "session_20250303_204631_28056"
+      },
+      {
+        "timestamp": 1741063594.181774,
+        "category": "DEV_enemy_attack_initiate",
+        "importance": "high",
+        "data": {
+          "enemy_id": 2179319098304,
+          "enemy_type": "water_splasher",
+          "damage_type": "water",
+          "base_damage": 1,
+          "player_health": 93,
+          "player_wetness": 14,
+          "player_fire_resistance": 0.0,
+          "player_obsidian": 0,
+          "timestamp": 1741063594.181774
+        },
+        "session_id": "session_20250303_204631_28056"
+      }
+    ],
+    "DEV_attack_missed": [
+      {
+        "timestamp": 1741063594.1557438,
+        "category": "DEV_attack_missed",
+        "importance": "normal",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2179319098304,
+          "target": "player",
+          "roll": 0.9963796780120463,
+          "hit_chance": 0.8,
+          "timestamp": 1741063594.1557438
+        },
+        "session_id": "session_20250303_204631_28056"
+      }
+    ],
+    "PERF_update_complete": [
+      {
+        "timestamp": 1741063594.1557438,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 119,
+          "duration_ms": 0.5030632019042969,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_204631_28056"
+      },
+      {
+        "timestamp": 1741063594.1622174,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 120,
+          "duration_ms": 0.5075931549072266,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_204631_28056"
+      }
+    ],
+    "STATE_input": [
+      {
+        "timestamp": 1741063594.1616125,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 120,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              660,
+              297
+            ]
+          },
+          "events_count": 0,
+          "quit_requested": false,
+          "processing_time_ms": 2.852916717529297
+        },
+        "session_id": "session_20250303_204631_28056"
+      },
+      {
+        "timestamp": 1741063594.1795044,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 121,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              660,
+              297
+            ]
+          },
+          "events_count": 0,
+          "quit_requested": false,
+          "processing_time_ms": 2.023935317993164
+        },
+        "session_id": "session_20250303_204631_28056"
+      }
+    ],
+    "STATE_player_damage": [
+      {
+        "timestamp": 1741063594.1622174,
+        "category": "STATE_player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 93,
+          "wetness": 14,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2"
+          ]
+        },
+        "session_id": "session_20250303_204631_28056"
+      },
+      {
+        "timestamp": 1741063594.181774,
+        "category": "STATE_player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 92,
+          "wetness": 16,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2"
+          ]
+        },
+        "session_id": "session_20250303_204631_28056"
+      }
+    ],
+    "combat": [
+      {
+        "timestamp": 1741063594.1622174,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2179319098304,
+          "defender": "player",
+          "defender_id": 2179319101664,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2"
+          ]
+        },
+        "session_id": "session_20250303_204631_28056"
+      },
+      {
+        "timestamp": 1741063594.181774,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2179319098304,
+          "defender": "player",
+          "defender_id": 2179319101664,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2"
+          ]
+        },
+        "session_id": "session_20250303_204631_28056"
+      }
+    ],
+    "DEV_enemy_attack_details": [
+      {
+        "timestamp": 1741063594.1622174,
+        "category": "DEV_enemy_attack_details",
+        "importance": "high",
+        "data": {
+          "roll": 0.4192373024076258,
+          "hit_chance": 0.8,
+          "hit_success": true,
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "player_health_remaining": 93,
+          "effects_triggered": [
+            "wetness_increased:2"
+          ],
+          "timestamp": 1741063594.1622174
+        },
+        "session_id": "session_20250303_204631_28056"
+      },
+      {
+        "timestamp": 1741063594.1822853,
+        "category": "DEV_enemy_attack_details",
+        "importance": "high",
+        "data": {
+          "roll": 0.5598877964715909,
+          "hit_chance": 0.8,
+          "hit_success": true,
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "player_health_remaining": 92,
+          "effects_triggered": [
+            "wetness_increased:2"
+          ],
+          "timestamp": 1741063594.1822853
+        },
+        "session_id": "session_20250303_204631_28056"
+      }
+    ],
+    "DELTA_performance": [
+      {
+        "timestamp": 1741063594.1769524,
+        "category": "DELTA_performance",
+        "importance": "high",
+        "data": {
+          "frame": 120,
+          "fps_delta": -0.5282464477994466,
+          "frame_time_delta_ms": -45.11523246765137,
+          "update_time_delta_ms": -3.8957595825195312,
+          "draw_time_delta_ms": -2.206087112426758,
+          "sprites_delta": 0,
+          "enemies_delta": 0
+        },
+        "session_id": "session_20250303_204631_28056"
+      }
+    ],
+    "PERF_metrics": [
+      {
+        "timestamp": 1741063594.1774805,
+        "category": "PERF_metrics",
+        "importance": "normal",
+        "data": {
+          "frame_count": 120,
+          "average_fps": 58.90617121559742,
+          "target_fps": 60,
+          "last_frame_time": 18.119335174560547,
+          "event_processing_time": 2.852916717529297,
+          "update_time": 0.5075931549072266,
+          "draw_time": 3.010988235473633,
+          "active_sprites": 4,
+          "active_enemies": 2,
+          "timestamp": 1741063594.1774805
+        },
+        "session_id": "session_20250303_204631_28056"
+      }
+    ],
+    "environment": [
+      {
+        "timestamp": 1741063594.1822853,
+        "category": "environment",
+        "importance": "normal",
+        "data": {
+          "area": "BEACH",
+          "enemy_count": 2,
+          "enemy_types": [
+            "water_splasher",
+            "lava_splasher"
+          ],
+          "hazards": []
+        },
+        "session_id": "session_20250303_204631_28056"
+      }
+    ]
+  }
+}

@@ -1,0 +1,7075 @@
+{
+  "timestamp": 1741064618.9767702,
+  "snapshot_time": "20250303_210338",
+  "session_id": "session_20250303_210336_30320",
+  "snapshot_data": {
+    "PERF_update_complete": [
+      {
+        "timestamp": 1741064618.0078745,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 61,
+          "duration_ms": 3.0066967010498047,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.0138922,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 62,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.0323014,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 63,
+          "duration_ms": 1.504659652709961,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.0484014,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 64,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.0639637,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 65,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.0792978,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 66,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.0962574,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 67,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.1143882,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 68,
+          "duration_ms": 1.1081695556640625,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.1302683,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 69,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.147667,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 70,
+          "duration_ms": 0.5040168762207031,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.1635535,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 71,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.1812046,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 72,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.1984272,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 73,
+          "duration_ms": 0.5095005035400391,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.2134798,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 74,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.2300334,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 75,
+          "duration_ms": 0.2720355987548828,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.248096,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 76,
+          "duration_ms": 1.6086101531982422,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.262042,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 77,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.2791095,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 78,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.2949407,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 79,
+          "duration_ms": 1.0035037994384766,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.3113024,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 80,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.3285215,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 81,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.3454602,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 82,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.3615458,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 83,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.3775988,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 84,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.3937347,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 85,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.4097292,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 86,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.427857,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 87,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.4437532,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 88,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.4613426,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 89,
+          "duration_ms": 1.0213851928710938,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.4781418,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 90,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.493949,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 91,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.5104275,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 92,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.5276265,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 93,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.5437028,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 94,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.561693,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 95,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.5782218,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 96,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.5937521,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 97,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.6096973,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 98,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.6271393,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 99,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.6433809,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 100,
+          "duration_ms": 0.5025863647460938,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.6596806,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 101,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.6794624,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 102,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.6935482,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 103,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.7104003,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 104,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.7270124,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 105,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.742172,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 106,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.758945,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 107,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.7759206,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 108,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.791584,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 109,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.8080015,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 110,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.8236868,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 111,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.8420138,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 112,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.8580618,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 113,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.875065,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 114,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.8920808,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 115,
+          "duration_ms": 1.0051727294921875,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.9115932,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 116,
+          "duration_ms": 2.858400344848633,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.9270358,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 117,
+          "duration_ms": 1.0013580322265625,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.9427254,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 118,
+          "duration_ms": 0.5033016204833984,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.9593158,
+        "category": "PERF_update_complete",
+        "importance": "low",
+        "data": {
+          "frame": 119,
+          "duration_ms": 0.0,
+          "player_pos_after": [
+            400,
+            300
+          ],
+          "enemy_count_after": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      }
+    ],
+    "PERF_metrics": [
+      {
+        "timestamp": 1741064618.0103867,
+        "category": "PERF_metrics",
+        "importance": "normal",
+        "data": {
+          "frame_count": 61,
+          "average_fps": 59.81120946595331,
+          "target_fps": 60,
+          "last_frame_time": 43.869972229003906,
+          "event_processing_time": 3.0138492584228516,
+          "update_time": 3.0066967010498047,
+          "draw_time": 2.512216567993164,
+          "active_sprites": 4,
+          "active_enemies": 2,
+          "timestamp": 1741064618.0103867
+        },
+        "session_id": "session_20250303_210336_30320"
+      }
+    ],
+    "STATE_input": [
+      {
+        "timestamp": 1741064618.0138922,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 62,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              719,
+              345
+            ]
+          },
+          "events_count": 1,
+          "quit_requested": false,
+          "processing_time_ms": 2.504587173461914
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.0307968,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 63,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              718,
+              345
+            ]
+          },
+          "events_count": 1,
+          "quit_requested": false,
+          "processing_time_ms": 2.864360809326172
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.047887,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 64,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              715,
+              343
+            ]
+          },
+          "events_count": 1,
+          "quit_requested": false,
+          "processing_time_ms": 3.632068634033203
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.063447,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 65,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              713,
+              343
+            ]
+          },
+          "events_count": 1,
+          "quit_requested": false,
+          "processing_time_ms": 3.0853748321533203
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.0792978,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 66,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              707,
+              345
+            ]
+          },
+          "events_count": 1,
+          "quit_requested": false,
+          "processing_time_ms": 2.562284469604492
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.0962574,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 67,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              701,
+              345
+            ]
+          },
+          "events_count": 1,
+          "quit_requested": false,
+          "processing_time_ms": 2.6092529296875
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.11328,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 68,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              701,
+              345
+            ]
+          },
+          "events_count": 0,
+          "quit_requested": false,
+          "processing_time_ms": 2.022266387939453
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.1302683,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 69,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              701,
+              345
+            ]
+          },
+          "events_count": 0,
+          "quit_requested": false,
+          "processing_time_ms": 1.5673637390136719
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.147163,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 70,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              701,
+              345
+            ]
+          },
+          "events_count": 0,
+          "quit_requested": false,
+          "processing_time_ms": 2.0818710327148438
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.1635535,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 71,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              701,
+              345
+            ]
+          },
+          "events_count": 0,
+          "quit_requested": false,
+          "processing_time_ms": 2.1436214447021484
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.1802053,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 72,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              701,
+              345
+            ]
+          },
+          "events_count": 0,
+          "quit_requested": false,
+          "processing_time_ms": 2.112150192260742
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.1979177,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 73,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              701,
+              345
+            ]
+          },
+          "events_count": 0,
+          "quit_requested": false,
+          "processing_time_ms": 2.6476383209228516
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.2134798,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 74,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              701,
+              345
+            ]
+          },
+          "events_count": 0,
+          "quit_requested": false,
+          "processing_time_ms": 2.0296573638916016
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.2287517,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 75,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              701,
+              345
+            ]
+          },
+          "events_count": 0,
+          "quit_requested": false,
+          "processing_time_ms": 1.6179084777832031
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.2464874,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 76,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              701,
+              345
+            ]
+          },
+          "events_count": 0,
+          "quit_requested": false,
+          "processing_time_ms": 2.6073455810546875
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.2615392,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 77,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              701,
+              345
+            ]
+          },
+          "events_count": 0,
+          "quit_requested": false,
+          "processing_time_ms": 2.0079612731933594
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.2781065,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 78,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              701,
+              345
+            ]
+          },
+          "events_count": 0,
+          "quit_requested": false,
+          "processing_time_ms": 2.283811569213867
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.2939372,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 79,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              699,
+              343
+            ]
+          },
+          "events_count": 1,
+          "quit_requested": false,
+          "processing_time_ms": 2.215147018432617
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.3113024,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 80,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              696,
+              341
+            ]
+          },
+          "events_count": 1,
+          "quit_requested": false,
+          "processing_time_ms": 1.5568733215332031
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.3280187,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 81,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              692,
+              338
+            ]
+          },
+          "events_count": 1,
+          "quit_requested": false,
+          "processing_time_ms": 3.5266876220703125
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.3449569,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 82,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              687,
+              334
+            ]
+          },
+          "events_count": 2,
+          "quit_requested": false,
+          "processing_time_ms": 3.509521484375
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.360042,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 83,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              681,
+              331
+            ]
+          },
+          "events_count": 1,
+          "quit_requested": false,
+          "processing_time_ms": 2.0685195922851562
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.3775988,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 84,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              672,
+              329
+            ]
+          },
+          "events_count": 1,
+          "quit_requested": false,
+          "processing_time_ms": 1.5234947204589844
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.3937347,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 85,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              663,
+              326
+            ]
+          },
+          "events_count": 1,
+          "quit_requested": false,
+          "processing_time_ms": 2.580881118774414
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.4097292,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 86,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              654,
+              323
+            ]
+          },
+          "events_count": 1,
+          "quit_requested": false,
+          "processing_time_ms": 2.5675296783447266
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.426854,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 87,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              649,
+              321
+            ]
+          },
+          "events_count": 2,
+          "quit_requested": false,
+          "processing_time_ms": 2.5162696838378906
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.4432492,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 88,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              648,
+              321
+            ]
+          },
+          "events_count": 1,
+          "quit_requested": false,
+          "processing_time_ms": 2.4340152740478516
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.4603212,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 89,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              648,
+              321
+            ]
+          },
+          "events_count": 0,
+          "quit_requested": false,
+          "processing_time_ms": 2.336263656616211
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.4776373,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 90,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              648,
+              321
+            ]
+          },
+          "events_count": 0,
+          "quit_requested": false,
+          "processing_time_ms": 2.515077590942383
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.4934356,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 91,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              644,
+              322
+            ]
+          },
+          "events_count": 1,
+          "quit_requested": false,
+          "processing_time_ms": 2.152681350708008
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.5104275,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 92,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              637,
+              322
+            ]
+          },
+          "events_count": 1,
+          "quit_requested": false,
+          "processing_time_ms": 2.5289058685302734
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.526928,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 93,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              628,
+              321
+            ]
+          },
+          "events_count": 1,
+          "quit_requested": false,
+          "processing_time_ms": 2.0513534545898438
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.5437028,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 94,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              622,
+              320
+            ]
+          },
+          "events_count": 1,
+          "quit_requested": false,
+          "processing_time_ms": 2.2034645080566406
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.561693,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 95,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              618,
+              319
+            ]
+          },
+          "events_count": 1,
+          "quit_requested": false,
+          "processing_time_ms": 2.8228759765625
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.577632,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 96,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              617,
+              319
+            ]
+          },
+          "events_count": 1,
+          "quit_requested": false,
+          "processing_time_ms": 2.521991729736328
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.5937521,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 97,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              613,
+              320
+            ]
+          },
+          "events_count": 1,
+          "quit_requested": false,
+          "processing_time_ms": 2.508401870727539
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.6096973,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 98,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              605,
+              322
+            ]
+          },
+          "events_count": 1,
+          "quit_requested": false,
+          "processing_time_ms": 2.598285675048828
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.626637,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 99,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              594,
+              324
+            ]
+          },
+          "events_count": 1,
+          "quit_requested": false,
+          "processing_time_ms": 2.8438568115234375
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.6428783,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 100,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              582,
+              325
+            ]
+          },
+          "events_count": 1,
+          "quit_requested": false,
+          "processing_time_ms": 2.2802352905273438
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.6596806,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 101,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              572,
+              325
+            ]
+          },
+          "events_count": 1,
+          "quit_requested": false,
+          "processing_time_ms": 2.517223358154297
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.6784604,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 102,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              563,
+              324
+            ]
+          },
+          "events_count": 1,
+          "quit_requested": false,
+          "processing_time_ms": 4.971027374267578
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.6935482,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 103,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              554,
+              324
+            ]
+          },
+          "events_count": 1,
+          "quit_requested": false,
+          "processing_time_ms": 2.547740936279297
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.7104003,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 104,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              545,
+              323
+            ]
+          },
+          "events_count": 1,
+          "quit_requested": false,
+          "processing_time_ms": 2.065896987915039
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.7265093,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 105,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              538,
+              323
+            ]
+          },
+          "events_count": 1,
+          "quit_requested": false,
+          "processing_time_ms": 2.5129318237304688
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.742172,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 106,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              535,
+              324
+            ]
+          },
+          "events_count": 1,
+          "quit_requested": false,
+          "processing_time_ms": 2.1865367889404297
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.758945,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 107,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              533,
+              326
+            ]
+          },
+          "events_count": 1,
+          "quit_requested": false,
+          "processing_time_ms": 2.5634765625
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.7759206,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 108,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              531,
+              330
+            ]
+          },
+          "events_count": 1,
+          "quit_requested": false,
+          "processing_time_ms": 2.6454925537109375
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.791584,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 109,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              531,
+              330
+            ]
+          },
+          "events_count": 0,
+          "quit_requested": false,
+          "processing_time_ms": 2.554655075073242
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.807498,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 110,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              531,
+              330
+            ]
+          },
+          "events_count": 0,
+          "quit_requested": false,
+          "processing_time_ms": 2.3865699768066406
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.8236868,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 111,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              531,
+              330
+            ]
+          },
+          "events_count": 0,
+          "quit_requested": false,
+          "processing_time_ms": 2.0020008087158203
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.8410099,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 112,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              531,
+              330
+            ]
+          },
+          "events_count": 0,
+          "quit_requested": false,
+          "processing_time_ms": 2.132892608642578
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.8580618,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 113,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              531,
+              330
+            ]
+          },
+          "events_count": 0,
+          "quit_requested": false,
+          "processing_time_ms": 2.8395652770996094
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.8735597,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 114,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              531,
+              330
+            ]
+          },
+          "events_count": 0,
+          "quit_requested": false,
+          "processing_time_ms": 1.2156963348388672
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.8910756,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 115,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              531,
+              330
+            ]
+          },
+          "events_count": 0,
+          "quit_requested": false,
+          "processing_time_ms": 2.0797252655029297
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.9087348,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 116,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              531,
+              330
+            ]
+          },
+          "events_count": 0,
+          "quit_requested": false,
+          "processing_time_ms": 2.214193344116211
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.925028,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 117,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              531,
+              330
+            ]
+          },
+          "events_count": 0,
+          "quit_requested": false,
+          "processing_time_ms": 2.0542144775390625
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.942222,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 118,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              531,
+              330
+            ]
+          },
+          "events_count": 0,
+          "quit_requested": false,
+          "processing_time_ms": 2.5031566619873047
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.9588096,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 119,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              531,
+              330
+            ]
+          },
+          "events_count": 0,
+          "quit_requested": false,
+          "processing_time_ms": 2.546548843383789
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.9752307,
+        "category": "STATE_input",
+        "importance": "normal",
+        "data": {
+          "frame": 120,
+          "input_state": {
+            "up": false,
+            "down": false,
+            "left": false,
+            "right": false,
+            "space": false,
+            "mouse_buttons": [
+              false,
+              false,
+              false
+            ],
+            "mouse_pos": [
+              531,
+              330
+            ]
+          },
+          "events_count": 0,
+          "quit_requested": false,
+          "processing_time_ms": 2.1004676818847656
+        },
+        "session_id": "session_20250303_210336_30320"
+      }
+    ],
+    "PERF_update_start": [
+      {
+        "timestamp": 1741064618.0138922,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 62,
+          "time": 1741064618.0138922,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.0307968,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 63,
+          "time": 1741064618.0307968,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.0484014,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 64,
+          "time": 1741064618.0484014,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.0639637,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 65,
+          "time": 1741064618.0639637,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.0792978,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 66,
+          "time": 1741064618.0792978,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.0962574,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 67,
+          "time": 1741064618.0962574,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.11328,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 68,
+          "time": 1741064618.11328,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.1302683,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 69,
+          "time": 1741064618.1302683,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.147163,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 70,
+          "time": 1741064618.147163,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.1635535,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 71,
+          "time": 1741064618.1635535,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.1812046,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 72,
+          "time": 1741064618.1812046,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.1979177,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 73,
+          "time": 1741064618.1979177,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.2134798,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 74,
+          "time": 1741064618.2134798,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.2297614,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 75,
+          "time": 1741064618.2297614,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.2464874,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 76,
+          "time": 1741064618.2464874,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.262042,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 77,
+          "time": 1741064618.262042,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.2791095,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 78,
+          "time": 1741064618.2791095,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.2939372,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 79,
+          "time": 1741064618.2939372,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.3113024,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 80,
+          "time": 1741064618.3113024,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.3285215,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 81,
+          "time": 1741064618.3285215,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.3454602,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 82,
+          "time": 1741064618.3454602,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.3615458,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 83,
+          "time": 1741064618.3615458,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.3775988,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 84,
+          "time": 1741064618.3775988,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.3937347,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 85,
+          "time": 1741064618.3937347,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.4097292,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 86,
+          "time": 1741064618.4097292,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.427857,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 87,
+          "time": 1741064618.427857,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.4437532,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 88,
+          "time": 1741064618.4437532,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.4603212,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 89,
+          "time": 1741064618.4603212,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.4781418,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 90,
+          "time": 1741064618.4781418,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.493949,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 91,
+          "time": 1741064618.493949,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.5104275,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 92,
+          "time": 1741064618.5104275,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.5276265,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 93,
+          "time": 1741064618.5276265,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.5437028,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 94,
+          "time": 1741064618.5437028,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.561693,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 95,
+          "time": 1741064618.561693,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.5782218,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 96,
+          "time": 1741064618.5782218,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.5937521,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 97,
+          "time": 1741064618.5937521,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.6096973,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 98,
+          "time": 1741064618.6096973,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.6271393,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 99,
+          "time": 1741064618.6271393,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.6428783,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 100,
+          "time": 1741064618.6428783,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.6596806,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 101,
+          "time": 1741064618.6596806,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.6794624,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 102,
+          "time": 1741064618.6794624,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.6935482,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 103,
+          "time": 1741064618.6935482,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.7104003,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 104,
+          "time": 1741064618.7104003,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.7270124,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 105,
+          "time": 1741064618.7270124,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.742172,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 106,
+          "time": 1741064618.742172,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.758945,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 107,
+          "time": 1741064618.758945,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.7759206,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 108,
+          "time": 1741064618.7759206,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.791584,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 109,
+          "time": 1741064618.791584,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.8080015,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 110,
+          "time": 1741064618.8080015,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.8236868,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 111,
+          "time": 1741064618.8236868,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.8420138,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 112,
+          "time": 1741064618.8420138,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.8580618,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 113,
+          "time": 1741064618.8580618,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.875065,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 114,
+          "time": 1741064618.875065,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.8910756,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 115,
+          "time": 1741064618.8910756,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.9087348,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 116,
+          "time": 1741064618.9087348,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.9260345,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 117,
+          "time": 1741064618.9260345,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.942222,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 118,
+          "time": 1741064618.942222,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.9593158,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 119,
+          "time": 1741064618.9593158,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_210336_30320"
+      }
+    ],
+    "DEV_enemy_movement": [
+      {
+        "timestamp": 1741064618.0138922,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 490,
+            "y": 300
+          },
+          "new_position": {
+            "x": 489,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": false
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.0138922,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 706,
+            "y": 300
+          },
+          "new_position": {
+            "x": 705,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.0323014,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 489,
+            "y": 300
+          },
+          "new_position": {
+            "x": 488,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.0323014,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 705,
+            "y": 300
+          },
+          "new_position": {
+            "x": 704,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.0484014,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 488,
+            "y": 300
+          },
+          "new_position": {
+            "x": 487,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.0484014,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 704,
+            "y": 300
+          },
+          "new_position": {
+            "x": 703,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.0639637,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 487,
+            "y": 300
+          },
+          "new_position": {
+            "x": 486,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": false
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.0639637,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 703,
+            "y": 300
+          },
+          "new_position": {
+            "x": 702,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": true,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.0792978,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 486,
+            "y": 300
+          },
+          "new_position": {
+            "x": 485,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": false
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.0792978,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 702,
+            "y": 300
+          },
+          "new_position": {
+            "x": 701,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.0962574,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 485,
+            "y": 300
+          },
+          "new_position": {
+            "x": 484,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.0962574,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 701,
+            "y": 300
+          },
+          "new_position": {
+            "x": 700,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.11328,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 484,
+            "y": 300
+          },
+          "new_position": {
+            "x": 483,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.1143882,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 700,
+            "y": 300
+          },
+          "new_position": {
+            "x": 699,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": false
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.1302683,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 483,
+            "y": 300
+          },
+          "new_position": {
+            "x": 482,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.1302683,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 699,
+            "y": 300
+          },
+          "new_position": {
+            "x": 698,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": false
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.147667,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 482,
+            "y": 300
+          },
+          "new_position": {
+            "x": 481,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": false
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.147667,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 698,
+            "y": 300
+          },
+          "new_position": {
+            "x": 697,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.1635535,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 481,
+            "y": 300
+          },
+          "new_position": {
+            "x": 480,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.1635535,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 697,
+            "y": 300
+          },
+          "new_position": {
+            "x": 696,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.1812046,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 480,
+            "y": 300
+          },
+          "new_position": {
+            "x": 479,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": false
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.1812046,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 696,
+            "y": 300
+          },
+          "new_position": {
+            "x": 695,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.1984272,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 479,
+            "y": 300
+          },
+          "new_position": {
+            "x": 478,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": false
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.1984272,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 695,
+            "y": 300
+          },
+          "new_position": {
+            "x": 694,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.2134798,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 478,
+            "y": 300
+          },
+          "new_position": {
+            "x": 477,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.2134798,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 694,
+            "y": 300
+          },
+          "new_position": {
+            "x": 693,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.2300334,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 477,
+            "y": 300
+          },
+          "new_position": {
+            "x": 476,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": false
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.2300334,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 693,
+            "y": 300
+          },
+          "new_position": {
+            "x": 692,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": false
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.248096,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 476,
+            "y": 300
+          },
+          "new_position": {
+            "x": 475,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.248096,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 692,
+            "y": 300
+          },
+          "new_position": {
+            "x": 691,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.262042,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 475,
+            "y": 300
+          },
+          "new_position": {
+            "x": 474,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.262042,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 691,
+            "y": 300
+          },
+          "new_position": {
+            "x": 690,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.2791095,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 474,
+            "y": 300
+          },
+          "new_position": {
+            "x": 473,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.2791095,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 690,
+            "y": 300
+          },
+          "new_position": {
+            "x": 689,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": false
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.2939372,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 473,
+            "y": 300
+          },
+          "new_position": {
+            "x": 472,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.2949407,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 689,
+            "y": 300
+          },
+          "new_position": {
+            "x": 688,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.3113024,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 472,
+            "y": 300
+          },
+          "new_position": {
+            "x": 471,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.3113024,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 688,
+            "y": 300
+          },
+          "new_position": {
+            "x": 687,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.3285215,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 471,
+            "y": 300
+          },
+          "new_position": {
+            "x": 470,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.3285215,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 687,
+            "y": 300
+          },
+          "new_position": {
+            "x": 686,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.3454602,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 470,
+            "y": 300
+          },
+          "new_position": {
+            "x": 469,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.3454602,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 686,
+            "y": 300
+          },
+          "new_position": {
+            "x": 685,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": false
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.3615458,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 469,
+            "y": 300
+          },
+          "new_position": {
+            "x": 468,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.3615458,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 685,
+            "y": 300
+          },
+          "new_position": {
+            "x": 684,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.3775988,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 468,
+            "y": 300
+          },
+          "new_position": {
+            "x": 467,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.3775988,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 684,
+            "y": 300
+          },
+          "new_position": {
+            "x": 683,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.3937347,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 467,
+            "y": 300
+          },
+          "new_position": {
+            "x": 466,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.3937347,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 683,
+            "y": 300
+          },
+          "new_position": {
+            "x": 682,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": false
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.4097292,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 466,
+            "y": 300
+          },
+          "new_position": {
+            "x": 465,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": false
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.4097292,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 682,
+            "y": 300
+          },
+          "new_position": {
+            "x": 681,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": false
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.427857,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 465,
+            "y": 300
+          },
+          "new_position": {
+            "x": 464,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.427857,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 681,
+            "y": 300
+          },
+          "new_position": {
+            "x": 680,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": false
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.4437532,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 464,
+            "y": 300
+          },
+          "new_position": {
+            "x": 463,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.4437532,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 680,
+            "y": 300
+          },
+          "new_position": {
+            "x": 679,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.4613426,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 463,
+            "y": 300
+          },
+          "new_position": {
+            "x": 462,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.4613426,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 679,
+            "y": 300
+          },
+          "new_position": {
+            "x": 678,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": false
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.4781418,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 462,
+            "y": 300
+          },
+          "new_position": {
+            "x": 461,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": false
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.4781418,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 678,
+            "y": 300
+          },
+          "new_position": {
+            "x": 677,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.493949,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 461,
+            "y": 300
+          },
+          "new_position": {
+            "x": 460,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.493949,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 677,
+            "y": 300
+          },
+          "new_position": {
+            "x": 676,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.5104275,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 460,
+            "y": 300
+          },
+          "new_position": {
+            "x": 459,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.5104275,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 676,
+            "y": 300
+          },
+          "new_position": {
+            "x": 675,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.5276265,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 459,
+            "y": 300
+          },
+          "new_position": {
+            "x": 458,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.5276265,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 675,
+            "y": 300
+          },
+          "new_position": {
+            "x": 674,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.5437028,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 458,
+            "y": 300
+          },
+          "new_position": {
+            "x": 457,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": false
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.5437028,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 674,
+            "y": 300
+          },
+          "new_position": {
+            "x": 673,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": false
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.561693,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 457,
+            "y": 300
+          },
+          "new_position": {
+            "x": 456,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.561693,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 673,
+            "y": 300
+          },
+          "new_position": {
+            "x": 672,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.5782218,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 456,
+            "y": 300
+          },
+          "new_position": {
+            "x": 455,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": false
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.5782218,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 672,
+            "y": 300
+          },
+          "new_position": {
+            "x": 671,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.5937521,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 455,
+            "y": 300
+          },
+          "new_position": {
+            "x": 454,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": false
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.5937521,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 671,
+            "y": 300
+          },
+          "new_position": {
+            "x": 670,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.6096973,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 454,
+            "y": 300
+          },
+          "new_position": {
+            "x": 453,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.6096973,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 670,
+            "y": 300
+          },
+          "new_position": {
+            "x": 669,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.6271393,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 453,
+            "y": 300
+          },
+          "new_position": {
+            "x": 452,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.6271393,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 669,
+            "y": 300
+          },
+          "new_position": {
+            "x": 668,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": false
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.6428783,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 452,
+            "y": 300
+          },
+          "new_position": {
+            "x": 451,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": false
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.6433809,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 668,
+            "y": 300
+          },
+          "new_position": {
+            "x": 667,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.6596806,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 451,
+            "y": 300
+          },
+          "new_position": {
+            "x": 450,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": false
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.6596806,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 667,
+            "y": 300
+          },
+          "new_position": {
+            "x": 666,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.6794624,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 450,
+            "y": 300
+          },
+          "new_position": {
+            "x": 449,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": false
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.6794624,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 666,
+            "y": 300
+          },
+          "new_position": {
+            "x": 665,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.6935482,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 449,
+            "y": 300
+          },
+          "new_position": {
+            "x": 448,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": false
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.6935482,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 665,
+            "y": 300
+          },
+          "new_position": {
+            "x": 664,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.7104003,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 448,
+            "y": 300
+          },
+          "new_position": {
+            "x": 447,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.7104003,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 664,
+            "y": 300
+          },
+          "new_position": {
+            "x": 663,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": false
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.7270124,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 447,
+            "y": 300
+          },
+          "new_position": {
+            "x": 446,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.7270124,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 663,
+            "y": 300
+          },
+          "new_position": {
+            "x": 662,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.742172,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 446,
+            "y": 300
+          },
+          "new_position": {
+            "x": 445,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.742172,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 662,
+            "y": 300
+          },
+          "new_position": {
+            "x": 661,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": false
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.758945,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 445,
+            "y": 300
+          },
+          "new_position": {
+            "x": 444,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.758945,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 661,
+            "y": 300
+          },
+          "new_position": {
+            "x": 660,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.7759206,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 444,
+            "y": 300
+          },
+          "new_position": {
+            "x": 443,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": false
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.7759206,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 660,
+            "y": 300
+          },
+          "new_position": {
+            "x": 659,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.791584,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 443,
+            "y": 300
+          },
+          "new_position": {
+            "x": 442,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": false
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.791584,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 659,
+            "y": 300
+          },
+          "new_position": {
+            "x": 658,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.8080015,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 442,
+            "y": 300
+          },
+          "new_position": {
+            "x": 441,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.8080015,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 658,
+            "y": 300
+          },
+          "new_position": {
+            "x": 657,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": false
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.8236868,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 441,
+            "y": 300
+          },
+          "new_position": {
+            "x": 440,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.8236868,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 657,
+            "y": 300
+          },
+          "new_position": {
+            "x": 656,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.8420138,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 440,
+            "y": 300
+          },
+          "new_position": {
+            "x": 439,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.8420138,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 656,
+            "y": 300
+          },
+          "new_position": {
+            "x": 655,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.8580618,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 439,
+            "y": 300
+          },
+          "new_position": {
+            "x": 438,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.8580618,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 655,
+            "y": 300
+          },
+          "new_position": {
+            "x": 654,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.875065,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 438,
+            "y": 300
+          },
+          "new_position": {
+            "x": 437,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.875065,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 654,
+            "y": 300
+          },
+          "new_position": {
+            "x": 653,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.8920808,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 437,
+            "y": 300
+          },
+          "new_position": {
+            "x": 436,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.8920808,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 653,
+            "y": 300
+          },
+          "new_position": {
+            "x": 652,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": false
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.9087348,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 436,
+            "y": 300
+          },
+          "new_position": {
+            "x": 435,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.9110773,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 652,
+            "y": 300
+          },
+          "new_position": {
+            "x": 651,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.9260345,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 435,
+            "y": 300
+          },
+          "new_position": {
+            "x": 434,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.9270358,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 651,
+            "y": 300
+          },
+          "new_position": {
+            "x": 650,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.942222,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 434,
+            "y": 300
+          },
+          "new_position": {
+            "x": 433,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.9427254,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 650,
+            "y": 300
+          },
+          "new_position": {
+            "x": 649,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.9593158,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 433,
+            "y": 300
+          },
+          "new_position": {
+            "x": 432,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.9593158,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 649,
+            "y": 300
+          },
+          "new_position": {
+            "x": 648,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": false
+        },
+        "session_id": "session_20250303_210336_30320"
+      }
+    ],
+    "DEV_enemy_direction_change": [
+      {
+        "timestamp": 1741064618.0639637,
+        "category": "DEV_enemy_direction_change",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "old_direction": 3.141592653589793,
+          "new_direction": 3.2379016427983296,
+          "next_change_time": 75,
+          "reason": "timer_expired"
+        },
+        "session_id": "session_20250303_210336_30320"
+      }
+    ],
+    "DEV_enemy_ai_decision": [
+      {
+        "timestamp": 1741064618.0639637,
+        "category": "DEV_enemy_ai_decision",
+        "importance": "low",
+        "data": {
+          "enemy_id": 1751511375232,
+          "enemy_type": "lava_splasher",
+          "decision": "move_toward_player",
+          "old_direction": 3.2379016427983296,
+          "new_direction": 3.141592653589793,
+          "distance_to_player": 303.0,
+          "player_position": {
+            "x": 400,
+            "y": 300
+          }
+        },
+        "session_id": "session_20250303_210336_30320"
+      }
+    ],
+    "DEV_memory_state": [
+      {
+        "timestamp": 1741064618.640598,
+        "category": "DEV_memory_state",
+        "importance": "low",
+        "data": {
+          "frame": 100,
+          "game_object_size": 48,
+          "all_sprites_count": 4,
+          "enemies_count": 2,
+          "player_object_size": 48,
+          "tutorial_object_size": 48,
+          "total_logs_since_start": 518
+        },
+        "session_id": "session_20250303_210336_30320"
+      }
+    ],
+    "PERF_frame_timing": [
+      {
+        "timestamp": 1741064618.7239964,
+        "category": "PERF_frame_timing",
+        "importance": "low",
+        "data": {
+          "frame_number": 104,
+          "total_time_ms": 16.663551330566406,
+          "event_time_ms": 2.065896987915039,
+          "update_time_ms": 0.0,
+          "draw_time_ms": 3.5102367401123047,
+          "time_breakdown": {
+            "events": 0.12397699307503005,
+            "update": 0.0,
+            "draw": 0.21065357980884794
+          },
+          "timestamp": 1741064618.7239964
+        },
+        "session_id": "session_20250303_210336_30320"
+      }
+    ],
+    "DEV_enemy_player_collision": [
+      {
+        "timestamp": 1741064618.8420138,
+        "category": "DEV_enemy_player_collision",
+        "importance": "normal",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "enemy_position": {
+            "x": 439,
+            "y": 300
+          },
+          "player_position": {
+            "x": 400,
+            "y": 300
+          },
+          "distance": 40.0,
+          "collision_detected": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.8580618,
+        "category": "DEV_enemy_player_collision",
+        "importance": "normal",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "enemy_position": {
+            "x": 438,
+            "y": 300
+          },
+          "player_position": {
+            "x": 400,
+            "y": 300
+          },
+          "distance": 39.0,
+          "collision_detected": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.875065,
+        "category": "DEV_enemy_player_collision",
+        "importance": "normal",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "enemy_position": {
+            "x": 437,
+            "y": 300
+          },
+          "player_position": {
+            "x": 400,
+            "y": 300
+          },
+          "distance": 38.0,
+          "collision_detected": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.8920808,
+        "category": "DEV_enemy_player_collision",
+        "importance": "normal",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "enemy_position": {
+            "x": 436,
+            "y": 300
+          },
+          "player_position": {
+            "x": 400,
+            "y": 300
+          },
+          "distance": 37.0,
+          "collision_detected": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.9087348,
+        "category": "DEV_enemy_player_collision",
+        "importance": "normal",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "enemy_position": {
+            "x": 435,
+            "y": 300
+          },
+          "player_position": {
+            "x": 400,
+            "y": 300
+          },
+          "distance": 36.0,
+          "collision_detected": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.9260345,
+        "category": "DEV_enemy_player_collision",
+        "importance": "normal",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "enemy_position": {
+            "x": 434,
+            "y": 300
+          },
+          "player_position": {
+            "x": 400,
+            "y": 300
+          },
+          "distance": 35.0,
+          "collision_detected": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.942222,
+        "category": "DEV_enemy_player_collision",
+        "importance": "normal",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "enemy_position": {
+            "x": 433,
+            "y": 300
+          },
+          "player_position": {
+            "x": 400,
+            "y": 300
+          },
+          "distance": 34.0,
+          "collision_detected": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.9593158,
+        "category": "DEV_enemy_player_collision",
+        "importance": "normal",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "enemy_position": {
+            "x": 432,
+            "y": 300
+          },
+          "player_position": {
+            "x": 400,
+            "y": 300
+          },
+          "distance": 33.0,
+          "collision_detected": true
+        },
+        "session_id": "session_20250303_210336_30320"
+      }
+    ],
+    "DEV_enemy_attack_initiate": [
+      {
+        "timestamp": 1741064618.8420138,
+        "category": "DEV_enemy_attack_initiate",
+        "importance": "high",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "damage_type": "water",
+          "base_damage": 1,
+          "player_health": 100,
+          "player_wetness": 0,
+          "player_fire_resistance": 0.0,
+          "player_obsidian": 0,
+          "timestamp": 1741064618.8420138
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.8580618,
+        "category": "DEV_enemy_attack_initiate",
+        "importance": "high",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "damage_type": "water",
+          "base_damage": 1,
+          "player_health": 100,
+          "player_wetness": 0,
+          "player_fire_resistance": 0.0,
+          "player_obsidian": 0,
+          "timestamp": 1741064618.8580618
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.875065,
+        "category": "DEV_enemy_attack_initiate",
+        "importance": "high",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "damage_type": "water",
+          "base_damage": 1,
+          "player_health": 100,
+          "player_wetness": 0,
+          "player_fire_resistance": 0.0,
+          "player_obsidian": 0,
+          "timestamp": 1741064618.875065
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.8920808,
+        "category": "DEV_enemy_attack_initiate",
+        "importance": "high",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "damage_type": "water",
+          "base_damage": 1,
+          "player_health": 99,
+          "player_wetness": 2,
+          "player_fire_resistance": 0.0,
+          "player_obsidian": 0,
+          "timestamp": 1741064618.8920808
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.9087348,
+        "category": "DEV_enemy_attack_initiate",
+        "importance": "high",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "damage_type": "water",
+          "base_damage": 1,
+          "player_health": 99,
+          "player_wetness": 2,
+          "player_fire_resistance": 0.0,
+          "player_obsidian": 0,
+          "timestamp": 1741064618.9087348
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.9260345,
+        "category": "DEV_enemy_attack_initiate",
+        "importance": "high",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "damage_type": "water",
+          "base_damage": 1,
+          "player_health": 99,
+          "player_wetness": 2,
+          "player_fire_resistance": 0.0,
+          "player_obsidian": 0,
+          "timestamp": 1741064618.9260345
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.9427254,
+        "category": "DEV_enemy_attack_initiate",
+        "importance": "high",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "damage_type": "water",
+          "base_damage": 1,
+          "player_health": 98,
+          "player_wetness": 4,
+          "player_fire_resistance": 0.0,
+          "player_obsidian": 0,
+          "timestamp": 1741064618.9427254
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.9593158,
+        "category": "DEV_enemy_attack_initiate",
+        "importance": "high",
+        "data": {
+          "enemy_id": 1751511375136,
+          "enemy_type": "water_splasher",
+          "damage_type": "water",
+          "base_damage": 1,
+          "player_health": 98,
+          "player_wetness": 4,
+          "player_fire_resistance": 0.0,
+          "player_obsidian": 0,
+          "timestamp": 1741064618.9593158
+        },
+        "session_id": "session_20250303_210336_30320"
+      }
+    ],
+    "DEV_attack_missed": [
+      {
+        "timestamp": 1741064618.8420138,
+        "category": "DEV_attack_missed",
+        "importance": "normal",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 1751511375136,
+          "target": "player",
+          "roll": 0.9669412690641299,
+          "hit_chance": 0.8,
+          "timestamp": 1741064618.8420138
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.8580618,
+        "category": "DEV_attack_missed",
+        "importance": "normal",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 1751511375136,
+          "target": "player",
+          "roll": 0.9529220682453472,
+          "hit_chance": 0.8,
+          "timestamp": 1741064618.8580618
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.8920808,
+        "category": "DEV_attack_missed",
+        "importance": "normal",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 1751511375136,
+          "target": "player",
+          "roll": 0.8425591351638946,
+          "hit_chance": 0.8,
+          "timestamp": 1741064618.8920808
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.9097862,
+        "category": "DEV_attack_missed",
+        "importance": "normal",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 1751511375136,
+          "target": "player",
+          "roll": 0.9695506535905295,
+          "hit_chance": 0.8,
+          "timestamp": 1741064618.9097862
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.9427254,
+        "category": "DEV_attack_missed",
+        "importance": "normal",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 1751511375136,
+          "target": "player",
+          "roll": 0.8058611000845214,
+          "hit_chance": 0.8,
+          "timestamp": 1741064618.9427254
+        },
+        "session_id": "session_20250303_210336_30320"
+      }
+    ],
+    "STATE_player_damage": [
+      {
+        "timestamp": 1741064618.875065,
+        "category": "STATE_player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 99,
+          "wetness": 2,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2"
+          ]
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.9260345,
+        "category": "STATE_player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 98,
+          "wetness": 4,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2"
+          ]
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.9593158,
+        "category": "STATE_player_damage",
+        "importance": "high",
+        "data": {
+          "damage_type": "water",
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "health_remaining": 97,
+          "wetness": 6,
+          "obsidian_armor": 0,
+          "effects": [
+            "wetness_increased:2"
+          ]
+        },
+        "session_id": "session_20250303_210336_30320"
+      }
+    ],
+    "combat": [
+      {
+        "timestamp": 1741064618.875065,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 1751511375136,
+          "defender": "player",
+          "defender_id": 1751511373264,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2"
+          ]
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.9260345,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 1751511375136,
+          "defender": "player",
+          "defender_id": 1751511373264,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2"
+          ]
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.9593158,
+        "category": "combat",
+        "importance": "high",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 1751511375136,
+          "defender": "player",
+          "defender_id": 1751511373264,
+          "damage_attempted": 1,
+          "damage_type": "water",
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "effects": [
+            "wetness_increased:2"
+          ]
+        },
+        "session_id": "session_20250303_210336_30320"
+      }
+    ],
+    "DEV_enemy_attack_details": [
+      {
+        "timestamp": 1741064618.875065,
+        "category": "DEV_enemy_attack_details",
+        "importance": "high",
+        "data": {
+          "roll": 0.702807487570794,
+          "hit_chance": 0.8,
+          "hit_success": true,
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "player_health_remaining": 99,
+          "effects_triggered": [
+            "wetness_increased:2"
+          ],
+          "timestamp": 1741064618.875065
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.9260345,
+        "category": "DEV_enemy_attack_details",
+        "importance": "high",
+        "data": {
+          "roll": 0.45790921551152863,
+          "hit_chance": 0.8,
+          "hit_success": true,
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "player_health_remaining": 98,
+          "effects_triggered": [
+            "wetness_increased:2"
+          ],
+          "timestamp": 1741064618.9260345
+        },
+        "session_id": "session_20250303_210336_30320"
+      },
+      {
+        "timestamp": 1741064618.9593158,
+        "category": "DEV_enemy_attack_details",
+        "importance": "high",
+        "data": {
+          "roll": 0.232489376643348,
+          "hit_chance": 0.8,
+          "hit_success": true,
+          "raw_damage": 1,
+          "actual_damage": 1,
+          "resistance_applied": 0,
+          "player_health_remaining": 97,
+          "effects_triggered": [
+            "wetness_increased:2"
+          ],
+          "timestamp": 1741064618.9593158
+        },
+        "session_id": "session_20250303_210336_30320"
+      }
+    ]
+  }
+}

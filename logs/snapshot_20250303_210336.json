@@ -1,0 +1,31 @@
+{
+  "timestamp": 1741064616.9701993,
+  "snapshot_time": "20250303_210336",
+  "session_id": "session_20250303_210336_30320",
+  "snapshot_data": {
+    "STATE_player_initialized": [
+      {
+        "timestamp": 1741064616.9701993,
+        "category": "STATE_player_initialized",
+        "importance": "high",
+        "data": {
+          "position": {
+            "x": 400,
+            "y": 300
+          },
+          "health": 100,
+          "max_health": 100,
+          "speed": 5,
+          "damage": 10,
+          "wetness": 0,
+          "fire_resistance": 0,
+          "obsidian_armor": 0,
+          "current_area": "BEACH",
+          "session_id": 1751511373264,
+          "memory_size": 48
+        },
+        "session_id": "session_20250303_210336_30320"
+      }
+    ]
+  }
+}

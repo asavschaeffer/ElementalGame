@@ -1,0 +1,13 @@
+{
+  "session_id": "20250303_181441_14944",
+  "organized_date": "2025-03-03 18:38:24",
+  "log_files": [
+    "game_session_20250303_181441_14944.log"
+  ],
+  "snapshot_files": [],
+  "log_file": "logs\\sessions\\20250303_181441_14944\\game_log.log",
+  "directories": {
+    "session": "logs\\sessions\\20250303_181441_14944",
+    "snapshots": "logs\\sessions\\20250303_181441_14944\\snapshots"
+  }
+}

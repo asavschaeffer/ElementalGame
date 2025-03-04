@@ -1,0 +1,56 @@
+{
+  "timestamp": 1741055281.0377462,
+  "snapshot_data": {
+    "enemy_attack_initiate": [
+      {
+        "timestamp": 1741055281.036306,
+        "category": "enemy_attack_initiate",
+        "importance": "high",
+        "data": {
+          "enemy_id": 2067849579392,
+          "enemy_type": "water_splasher",
+          "damage_type": "water",
+          "base_damage": 1,
+          "player_health": 43,
+          "player_wetness": 100,
+          "player_fire_resistance": 0.0,
+          "player_obsidian": 0,
+          "timestamp": 1741055281.036306
+        },
+        "session_id": "session_20250303_182758_33568"
+      }
+    ],
+    "attack_missed": [
+      {
+        "timestamp": 1741055281.036306,
+        "category": "attack_missed",
+        "importance": "normal",
+        "data": {
+          "attacker": "water_splasher",
+          "attacker_id": 2067849579392,
+          "target": "player",
+          "roll": 0.9743746744573564,
+          "hit_chance": 0.8,
+          "timestamp": 1741055281.036306
+        },
+        "session_id": "session_20250303_182758_33568"
+      }
+    ],
+    "environment": [
+      {
+        "timestamp": 1741055281.036306,
+        "category": "environment",
+        "importance": "normal",
+        "data": {
+          "area": "BEACH",
+          "enemy_count": 1,
+          "enemy_types": [
+            "water_splasher"
+          ],
+          "hazards": []
+        },
+        "session_id": "session_20250303_182758_33568"
+      }
+    ]
+  }
+}

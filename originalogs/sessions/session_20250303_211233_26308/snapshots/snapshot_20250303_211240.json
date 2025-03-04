@@ -1,0 +1,2461 @@
+{
+  "timestamp": 1741065160.662434,
+  "snapshot_time": "20250303_211240",
+  "session_id": "session_20250303_211233_26308",
+  "snapshot_data": {
+    "RENDERING_GAME_OVER_SCREEN": [
+      {
+        "timestamp": 1741065159.6680012,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.1466684341430664,
+          "remaining_time": 2.8533315658569336
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.6829157,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.1615829467773438,
+          "remaining_time": 2.8384170532226562
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.7005076,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.1791749000549316,
+          "remaining_time": 2.8208250999450684
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.7165112,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.195178508758545,
+          "remaining_time": 2.804821491241455
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.7325783,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.211245536804199,
+          "remaining_time": 2.788754463195801
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.7484174,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.2270846366882324,
+          "remaining_time": 2.7729153633117676
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.765801,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.2444682121276855,
+          "remaining_time": 2.7555317878723145
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.7820761,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.2607433795928955,
+          "remaining_time": 2.7392566204071045
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.7978437,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.2765109539031982,
+          "remaining_time": 2.7234890460968018
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.8141005,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.2927677631378174,
+          "remaining_time": 2.7072322368621826
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.831009,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.309676170349121,
+          "remaining_time": 2.690323829650879
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.847893,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.3265602588653564,
+          "remaining_time": 2.6734397411346436
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.8638554,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.342522621154785,
+          "remaining_time": 2.657477378845215
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.881078,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.3597452640533447,
+          "remaining_time": 2.6402547359466553
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.8975751,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.3762423992156982,
+          "remaining_time": 2.6237576007843018
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.9140737,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.3927409648895264,
+          "remaining_time": 2.6072590351104736
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.9308362,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.40950345993042,
+          "remaining_time": 2.59049654006958
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.9473674,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.426034688949585,
+          "remaining_time": 2.573965311050415
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.964155,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.442822217941284,
+          "remaining_time": 2.557177782058716
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.980945,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.4596123695373535,
+          "remaining_time": 2.5403876304626465
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.997953,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.4766201972961426,
+          "remaining_time": 2.5233798027038574
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.0147543,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.4934215545654297,
+          "remaining_time": 2.5065784454345703
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.031247,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.5099141597747803,
+          "remaining_time": 2.4900858402252197
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.0483253,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.5269925594329834,
+          "remaining_time": 2.4730074405670166
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.0645068,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.5431740283966064,
+          "remaining_time": 2.4568259716033936
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.0811508,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.5598180294036865,
+          "remaining_time": 2.4401819705963135
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.0973125,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.575979709625244,
+          "remaining_time": 2.424020290374756
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.1139336,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.5926008224487305,
+          "remaining_time": 2.4073991775512695
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.1310182,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.6096854209899902,
+          "remaining_time": 2.3903145790100098
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.1476636,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.626330852508545,
+          "remaining_time": 2.373669147491455
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.1641076,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.642774820327759,
+          "remaining_time": 2.357225179672241
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.1809514,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.659618616104126,
+          "remaining_time": 2.340381383895874
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.1978068,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.676474094390869,
+          "remaining_time": 2.323525905609131
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.2139008,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.692568063735962,
+          "remaining_time": 2.307431936264038
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.2307975,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.7094647884368896,
+          "remaining_time": 2.2905352115631104
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.248352,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.7270193099975586,
+          "remaining_time": 2.2729806900024414
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.2644255,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.7430927753448486,
+          "remaining_time": 2.2569072246551514
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.2809172,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.759584426879883,
+          "remaining_time": 2.240415573120117
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.2976227,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.776289939880371,
+          "remaining_time": 2.223710060119629
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.3139892,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.7921526432037354,
+          "remaining_time": 2.207343578338623
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.329258,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.807925224304199,
+          "remaining_time": 2.192074775695801
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.3472772,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.825944423675537,
+          "remaining_time": 2.174055576324463
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.3616393,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.840306520462036,
+          "remaining_time": 2.159693479537964
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.3782864,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.8569536209106445,
+          "remaining_time": 2.1430463790893555
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.3938124,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.8724796772003174,
+          "remaining_time": 2.1275203227996826
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.411314,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.889981269836426,
+          "remaining_time": 2.110018730163574
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.4283571,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.907024383544922,
+          "remaining_time": 2.092975616455078
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.4459093,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.9245765209198,
+          "remaining_time": 2.0754234790802
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.4622214,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.9408886432647705,
+          "remaining_time": 2.0591113567352295
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.4783506,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.9570178985595703,
+          "remaining_time": 2.0429821014404297
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.4951794,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.973846673965454,
+          "remaining_time": 2.026153326034546
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.5122867,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 2.9909539222717285,
+          "remaining_time": 2.0090460777282715
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.5297258,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 3.0083930492401123,
+          "remaining_time": 1.9916069507598877
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.545029,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 3.023696184158325,
+          "remaining_time": 1.9763038158416748
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.5616581,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 3.040325403213501,
+          "remaining_time": 1.959674596786499
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.5792727,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 3.0579400062561035,
+          "remaining_time": 1.9420599937438965
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.5959132,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 3.074580430984497,
+          "remaining_time": 1.925419569015503
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.611365,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 3.0900323390960693,
+          "remaining_time": 1.9099676609039307
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.6281092,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 3.106776475906372,
+          "remaining_time": 1.893223524093628
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.6452856,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 3.123952865600586,
+          "remaining_time": 1.876047134399414
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.661414,
+        "category": "RENDERING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "time_since_death": 3.1400811672210693,
+          "remaining_time": 1.8599188327789307
+        },
+        "session_id": "session_20250303_211233_26308"
+      }
+    ],
+    "DRAWING_GAME_OVER_SCREEN": [
+      {
+        "timestamp": 1741065159.6680012,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.1466684341430664,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.8533315658569336
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.683919,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.162586212158203,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.837413787841797
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.7005076,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.1791749000549316,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.8208250999450684
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.7165112,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.195178508758545,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.804821491241455
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.7325783,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.211245536804199,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.788754463195801
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.7484174,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.2270846366882324,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.7729153633117676
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.765801,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.2444682121276855,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.7555317878723145
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.7820761,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.2607433795928955,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.7392566204071045
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.7978437,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.2765109539031982,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.7234890460968018
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.8141005,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.2927677631378174,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.7072322368621826
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.831009,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.309676170349121,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.690323829650879
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.847893,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.3265602588653564,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.6734397411346436
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.8638554,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.342522621154785,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.657477378845215
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.881078,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.3597452640533447,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.6402547359466553
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.8975751,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.3762423992156982,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.6237576007843018
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.9140737,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.3927409648895264,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.6072590351104736
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.9308362,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.40950345993042,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.59049654006958
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.9473674,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.426034688949585,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.573965311050415
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.964155,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.442822217941284,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.557177782058716
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.980945,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.4596123695373535,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.5403876304626465
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.998456,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.477123260498047,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.522876739501953
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.0147543,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.4934215545654297,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.5065784454345703
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.031247,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.5099141597747803,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.4900858402252197
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.0483253,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.5269925594329834,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.4730074405670166
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.0645068,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.5431740283966064,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.4568259716033936
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.0811508,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.5598180294036865,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.4401819705963135
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.0973125,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.575979709625244,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.424020290374756
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.1139336,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.5926008224487305,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.4073991775512695
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.1310182,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.6096854209899902,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.3903145790100098
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.1476636,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.626330852508545,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.373669147491455
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.1641076,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.642774820327759,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.357225179672241
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.1809514,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.659618616104126,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.340381383895874
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.1978068,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.676474094390869,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.323525905609131
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.2139008,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.692568063735962,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.307431936264038
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.2307975,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.7094647884368896,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.2905352115631104
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.248352,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.7270193099975586,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.2729806900024414
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.2644255,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.7430927753448486,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.2569072246551514
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.2809172,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.759584426879883,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.240415573120117
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.2976227,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.776289939880371,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.223710060119629
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.3139892,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.792656421661377,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.207343578338623
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.329258,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.807925224304199,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.192074775695801
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.3472772,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.825944423675537,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.174055576324463
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.3616393,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.840306520462036,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.159693479537964
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.3782864,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.8569536209106445,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.1430463790893555
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.3938124,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.8724796772003174,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.1275203227996826
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.411314,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.889981269836426,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.110018730163574
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.4283571,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.907024383544922,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.092975616455078
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.4459093,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.9245765209198,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.0754234790802
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.4622214,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.9408886432647705,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.0591113567352295
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.4783506,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.9570178985595703,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.0429821014404297
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.4951794,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.973846673965454,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.026153326034546
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.5122867,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 2.9909539222717285,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 2.0090460777282715
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.5297258,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 3.0083930492401123,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 1.9916069507598877
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.545029,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 3.023696184158325,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 1.9763038158416748
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.5616581,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 3.040325403213501,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 1.959674596786499
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.5792727,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 3.0579400062561035,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 1.9420599937438965
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.5959132,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 3.074580430984497,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 1.925419569015503
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.611365,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 3.0900323390960693,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 1.9099676609039307
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.629119,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 3.107786178588867,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 1.8922138214111328
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.6452856,
+        "category": "DRAWING_GAME_OVER_SCREEN",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "current_area": "BEACH",
+          "time_elapsed": 3.123952865600586,
+          "auto_exit_at": 1741065162.5213327,
+          "remaining_time": 1.876047134399414
+        },
+        "session_id": "session_20250303_211233_26308"
+      }
+    ],
+    "GAME_OVER_SCREEN_RENDERED": [
+      {
+        "timestamp": 1741065159.673051,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.6884708,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.704722,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.7218032,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.7371197,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.7527177,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.7697783,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.7865803,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.802699,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.819154,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.8350346,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.8518932,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.8688872,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.8854332,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.9016094,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.9186587,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.9353547,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.951979,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.96942,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065159.9863002,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.0025682,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.0193787,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.0357757,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.0523257,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.0690298,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.0841637,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.1013095,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.1184514,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.1355498,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.1515799,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.1683793,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.1869364,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.2022722,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.2182498,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.23562,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.255228,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.2692542,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.2849872,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.3046494,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.3200912,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.3345904,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.351605,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.365404,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.3828797,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.399375,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.4158564,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.4320095,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.4491718,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.4667685,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.4826229,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.4995556,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.5158315,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 2,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.5340548,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 1,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.550028,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 1,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.5652142,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 1,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.583782,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 1,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.5999353,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 1,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.6155813,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 1,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.6323073,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 1,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      },
+      {
+        "timestamp": 1741065160.6493447,
+        "category": "GAME_OVER_SCREEN_RENDERED",
+        "importance": "info",
+        "data": {
+          "cause_of_death": "Defeated by Water Creatures",
+          "remaining_time": 1,
+          "stats_displayed": [
+            "Area: BEACH",
+            "Wetness Level: 100",
+            "Fire Resistance: 0.0%",
+            "Obsidian Armor: No (Level: 0)",
+            "BEACH"
+          ]
+        },
+        "session_id": "session_20250303_211233_26308"
+      }
+    ],
+    "GAME_STATE": [
+      {
+        "timestamp": 1741065159.6983557,
+        "category": "GAME_STATE",
+        "importance": "info",
+        "data": {
+          "player": {
+            "health": 0,
+            "wetness": 100,
+            "fire_resistance": 0.0,
+            "obsidian_armor": 0,
+            "has_obsidian_armor": false,
+            "position": {
+              "x": 400,
+              "y": 300
+            },
+            "damage_dealt": 0,
+            "damage_taken": 100
+          },
+          "environment": {
+            "current_area": "BEACH",
+            "enemies_count": 2,
+            "active_sprites": 4
+          },
+          "performance": {
+            "fps": 61,
+            "game_time": 6.091477870941162,
+            "memory_usage": 48
+          },
+          "tutorial": {
+            "active": true,
+            "current_step": 0
+          },
+          "game_over": true
+        },
+        "session_id": "session_20250303_211233_26308"
+      }
+    ]
+  }
+}

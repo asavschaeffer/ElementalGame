@@ -1,0 +1,12 @@
+{
+  "session_id": "session_20250304_003013_30076",
+  "start_time": 1741077013.7503128,
+  "start_time_readable": "2025-03-04 00:30:13",
+  "log_file": "logs\\sessions\\session_20250304_003013_30076\\game_log.log",
+  "directories": {
+    "session": "logs\\sessions\\session_20250304_003013_30076",
+    "snapshots": "logs\\sessions\\session_20250304_003013_30076\\snapshots",
+    "cache": "logs\\sessions\\session_20250304_003013_30076\\cache",
+    "duplets": "logs\\sessions\\session_20250304_003013_30076\\duplets"
+  }
+}

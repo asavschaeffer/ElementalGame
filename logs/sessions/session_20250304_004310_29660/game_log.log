@@ -1,0 +1,16 @@
+2025-03-04 00:43:10.386 | INFO | Game Logger initialized for session: session_20250304_004310_29660
+2025-03-04 00:43:10.661 | DEBUG | [STATE_player_initialized] {"position": {"x": 400, "y": 300}, "health": 100, "max_health": 100, "speed": 5, "damage": 10, "wetness": 0, "fire_resistance": 0, "obsidian_armor": 0, "current_area": "BEACH", "session_id": 2052075261664, "memory_size": 48}
+2025-03-04 00:43:10.661 | WARNING | STATE_player_initialized: {"position": {"x": 400, "y": 300}, "health": 100, "max_health": 100, "speed": 5, "damage": 10, "wetness": 0, "fire_resistance": 0, "obsidian_armor": 0, "current_area": "BEACH", "session_id": 2052075261664, "memory_size": 48}
+2025-03-04 00:43:10.661 | DEBUG | [player] {"health": 100, "max_health": 100, "position": {"x": 400, "y": 300}, "wetness": 0, "fire_resistance": 0, "has_obsidian_armor": false, "obsidian_armor_level": 0, "current_area": "BEACH", "damage_dealt": 0, "damage_taken": 0}
+2025-03-04 00:43:10.661 | DEBUG | player: {"health": 100, "max_health": 100, "position": {"x": 400, "y": 300}, "wetness": 0, "fire_resistance": 0, "has_obsidian_armor": false, "obsidian_armor_level": 0, "current_area": "BEACH", "damage_dealt": 0, "damage_taken": 0}
+2025-03-04 00:43:10.668 | DEBUG | [tutorial_initialized] {"total_steps": 11}
+2025-03-04 00:43:10.669 | DEBUG | tutorial_initialized: {"total_steps": 11}
+2025-03-04 00:43:10.669 | DEBUG | [DEV_portal_created] {"source_area": "BEACH", "target_area": "VOLCANO", "position": {"x": 700, "y": 300}}
+2025-03-04 00:43:10.669 | DEBUG | DEV_portal_created: {"source_area": "BEACH", "target_area": "VOLCANO", "position": {"x": 700, "y": 300}}
+2025-03-04 00:43:10.669 | DEBUG | [area_transition] {"player_id": 2052075261664, "old_area": "BEACH", "new_area": "BEACH", "player_health": 100, "wetness": 0, "has_obsidian_armor": false}
+2025-03-04 00:43:10.669 | WARNING | area_transition: {"player_id": 2052075261664, "old_area": "BEACH", "new_area": "BEACH", "player_health": 100, "wetness": 0, "has_obsidian_armor": false}
+2025-03-04 00:43:10.669 | DEBUG | [splash_message] {"message": "Entered BEACH", "duration": 3.0}
+2025-03-04 00:43:10.669 | DEBUG | splash_message: {"message": "Entered BEACH", "duration": 3.0}
+2025-03-04 00:43:10.670 | DEBUG | [game_initialized] {"screen_size": [800, 600], "starting_area": "BEACH", "fps": 60, "tutorial_enabled": true}
+2025-03-04 00:43:10.670 | WARNING | game_initialized: {"screen_size": [800, 600], "starting_area": "BEACH", "fps": 60, "tutorial_enabled": true}
+2025-03-04 00:43:10.674 | DEBUG | Session session_20250304_004310_29660 cache finalized

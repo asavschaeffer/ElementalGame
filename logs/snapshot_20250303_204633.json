@@ -1,0 +1,95 @@
+{
+  "timestamp": 1741063593.166565,
+  "snapshot_time": "20250303_204633",
+  "session_id": "session_20250303_204631_28056",
+  "snapshot_data": {
+    "PERF_update_start": [
+      {
+        "timestamp": 1741063593.1642876,
+        "category": "PERF_update_start",
+        "importance": "low",
+        "data": {
+          "frame": 61,
+          "time": 1741063593.1642876,
+          "player_pos": [
+            400,
+            300
+          ],
+          "enemy_count": 2
+        },
+        "session_id": "session_20250303_204631_28056"
+      }
+    ],
+    "DEV_enemy_movement": [
+      {
+        "timestamp": 1741063593.1655571,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 2179319098304,
+          "enemy_type": "water_splasher",
+          "old_position": {
+            "x": 491,
+            "y": 300
+          },
+          "new_position": {
+            "x": 490,
+            "y": 300
+          },
+          "delta": {
+            "dx": -1.0,
+            "dy": 1.2246467991473532e-16
+          },
+          "speed": 1.0,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": false
+        },
+        "session_id": "session_20250303_204631_28056"
+      },
+      {
+        "timestamp": 1741063593.1655571,
+        "category": "DEV_enemy_movement",
+        "importance": "low",
+        "data": {
+          "enemy_id": 2179319098208,
+          "enemy_type": "lava_splasher",
+          "old_position": {
+            "x": 707,
+            "y": 300
+          },
+          "new_position": {
+            "x": 706,
+            "y": 300
+          },
+          "delta": {
+            "dx": -0.8,
+            "dy": 9.797174393178826e-17
+          },
+          "speed": 0.8,
+          "direction": 3.141592653589793,
+          "direction_changed": false,
+          "moving_toward_player": false
+        },
+        "session_id": "session_20250303_204631_28056"
+      }
+    ],
+    "environment": [
+      {
+        "timestamp": 1741063593.166565,
+        "category": "environment",
+        "importance": "normal",
+        "data": {
+          "area": "BEACH",
+          "enemy_count": 2,
+          "enemy_types": [
+            "water_splasher",
+            "lava_splasher"
+          ],
+          "hazards": []
+        },
+        "session_id": "session_20250303_204631_28056"
+      }
+    ]
+  }
+}
