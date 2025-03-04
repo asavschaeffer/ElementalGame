@@ -100,17 +100,28 @@ class Player(pygame.sprite.Sprite):
         self.progression["time_in_areas"][self.current_area] += time_since_last_log
         
         dx, dy = 0, 0
+        moved = False
+        
+        # Log individual key presses for arrow keys
         if keys[pygame.K_LEFT]:
             dx = -self.speed
+            moved = True
+            game_logger.debug("INPUT_ARROW_KEY", {"key": "LEFT", "timestamp": current_time}, "normal")
         if keys[pygame.K_RIGHT]:
             dx = self.speed
+            moved = True
+            game_logger.debug("INPUT_ARROW_KEY", {"key": "RIGHT", "timestamp": current_time}, "normal")
         if keys[pygame.K_UP]:
             dy = -self.speed
+            moved = True
+            game_logger.debug("INPUT_ARROW_KEY", {"key": "UP", "timestamp": current_time}, "normal")
         if keys[pygame.K_DOWN]:
             dy = self.speed
+            moved = True
+            game_logger.debug("INPUT_ARROW_KEY", {"key": "DOWN", "timestamp": current_time}, "normal")
             
         # Log movement input
-        if dx != 0 or dy != 0:
+        if moved:
             self.last_action_time = current_time  # Reset inactivity timer
             game_logger.debug("STATE_player_movement_input", {
                 "raw_dx": dx,

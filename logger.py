@@ -37,6 +37,7 @@ Date: March 2025
 
 import time
 import json
+from json import JSONEncoder
 import os
 import gzip
 import base64
@@ -46,6 +47,17 @@ import shutil
 from datetime import datetime
 from loguru import logger
 import threading
+import sys
+
+class CustomJSONEncoder(JSONEncoder):
+    """Custom JSON encoder that handles special Python types like sets."""
+    def default(self, obj):
+        if isinstance(obj, set):
+            return list(obj)  # Convert sets to lists
+        try:
+            return JSONEncoder.default(self, obj)
+        except TypeError:
+            return str(obj)  # Fall back to string representation for other complex types
 
 class GameLogger:
     def __init__(self, log_directory="logs"):
@@ -154,23 +166,20 @@ class GameLogger:
 
     def _create_session_manifest(self):
         """Create a manifest file for the current session with metadata."""
+        manifest_file = os.path.join(self.session_directory, "manifest.json")
+        
         manifest = {
             "session_id": self.session_id,
             "start_time": self.session_start_time,
-            "start_time_readable": datetime.fromtimestamp(self.session_start_time).strftime('%Y-%m-%d %H:%M:%S'),
-            "log_file": self.log_file_path,
-            "directories": {
-                "session": self.session_directory,
-                "snapshots": self.snapshots_directory,
-                "cache": self.cache_directory,
-                "duplets": self.duplets_directory
-            }
+            "python_version": sys.version,
+            "platform": sys.platform,
+            "executable": sys.executable,
+            "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+            "game_version": "0.1.0",  # Should be pulled from game config
         }
         
-        # Save manifest to the session directory
-        manifest_path = os.path.join(self.session_directory, "manifest.json")
-        with open(manifest_path, 'w') as f:
-            json.dump(manifest, f, indent=2)
+        with open(manifest_file, "w") as f:
+            json.dump(manifest, f, indent=2, cls=CustomJSONEncoder)
 
     def debug(self, category, data, priority="normal"):
         """
@@ -208,9 +217,9 @@ class GameLogger:
                 
         # Also send to loguru for console output and file rotation
         if priority == "high" or priority == "critical":
-            logger.warning(f"{category}: {json.dumps(data)}")
+            logger.warning(f"{category}: {json.dumps(data, cls=CustomJSONEncoder)}")
         else:
-            logger.debug(f"{category}: {json.dumps(data)}")
+            logger.debug(f"{category}: {json.dumps(data, cls=CustomJSONEncoder)}")
             
         # Take a snapshot if it's time
         if timestamp - self.last_snapshot_time >= self.snapshot_interval:
@@ -229,20 +238,55 @@ class GameLogger:
         if not self.log_cache:
             return
             
-        # Create a unique filename for this chunk
-        chunk_id = int(time.time() * 1000)
-        chunk_file = os.path.join(self.cache_directory, f"chunk_{chunk_id}.gz")
+        chunk_id = int(time.time())
+        chunk_file = os.path.join(self.cache_directory, f"{chunk_id}.cache")
         
-        # Compress the log cache using gzip + pickle (very efficient for Python objects)
         try:
-            with gzip.open(chunk_file, 'wb', compresslevel=9) as f:
-                pickle.dump(self.log_cache, f, protocol=pickle.HIGHEST_PROTOCOL)
+            # Serialize and compress
+            with gzip.open(chunk_file, 'wb') as f:
+                pickle.dump(self.log_cache, f)
                 
-            # Clear the cache after successful compression
-            logger.debug(f"Compressed {len(self.log_cache)} log entries to {chunk_file}")
+            # Create a summary file for easy browsing
+            summary_file = os.path.join(self.cache_directory, f"{chunk_id}_summary.json")
+            
+            # Generate summary statistics
+            categories = {}
+            for entry in self.log_cache:
+                cat = entry.get('category', 'unknown')
+                if cat not in categories:
+                    categories[cat] = 0
+                categories[cat] += 1
+                
+            summary = {
+                "chunk_id": chunk_id,
+                "entries": len(self.log_cache),
+                "start_time": self.log_cache[0]['timestamp'] if self.log_cache else time.time(),
+                "end_time": self.log_cache[-1]['timestamp'] if self.log_cache else time.time(),
+                "categories": categories
+            }
+            
+            # Make sure the summary file also gets properly written and closed
+            try:
+                with open(summary_file, 'w') as f:
+                    json.dump(summary, f, indent=2, cls=CustomJSONEncoder)
+            except Exception as e:
+                logger.error(f"Failed to write summary file: {e}")
+                
+            # Only clear the cache if everything succeeded
             self.log_cache = []
+            
+            logger.debug(f"Compressed log cache to {chunk_file} ({len(categories)} categories, {summary['entries']} entries)")
+            return chunk_file
+            
         except Exception as e:
-            logger.error(f"Error compressing log cache: {str(e)}")
+            logger.error(f"Failed to compress log cache: {e}")
+            # Attempt to remove potentially corrupt file
+            if os.path.exists(chunk_file):
+                try:
+                    os.remove(chunk_file)
+                except Exception:
+                    logger.error(f"Failed to remove corrupt cache file: {chunk_file}")
+            return None
     
     def finalize_cache(self):
         """Finalize the log cache when the game terminates."""
@@ -264,12 +308,12 @@ class GameLogger:
         metadata_file = os.path.join(self.session_directory, "metadata.json")
         try:
             with open(metadata_file, 'w') as f:
-                json.dump(session_metadata, f, indent=2)
+                json.dump(session_metadata, f, indent=2, cls=CustomJSONEncoder)
                 
             # Create a symlink in the main cache directory for backward compatibility
             compat_metadata_file = os.path.join(self.log_directory, "cache", f"{self.session_id}_metadata.json")
             with open(compat_metadata_file, 'w') as f:
-                json.dump(session_metadata, f, indent=2)
+                json.dump(session_metadata, f, indent=2, cls=CustomJSONEncoder)
         except Exception as e:
             logger.error(f"Error writing session metadata: {str(e)}")
             
@@ -347,23 +391,53 @@ class GameLogger:
             # Find all chunk files for this session in the new location
             for filename in sorted(os.listdir(cache_dir)):
                 if filename.startswith("chunk_") and filename.endswith(".gz"):
+                    file_path = os.path.join(cache_dir, filename)
                     try:
-                        with gzip.open(os.path.join(cache_dir, filename), 'rb') as f:
+                        # First check if file might be corrupted (too small to be valid)
+                        file_size = os.path.getsize(file_path)
+                        if file_size < 10:  # Extremely small files are likely corrupted
+                            logger.warning(f"Skipping suspiciously small log chunk: {filename} ({file_size} bytes)")
+                            continue
+                            
+                        with gzip.open(file_path, 'rb') as f:
                             chunk_logs = pickle.load(f)
+                            if not isinstance(chunk_logs, list):
+                                logger.warning(f"Log chunk {filename} has unexpected format, skipping")
+                                continue
                             logs.extend(chunk_logs)
+                            logger.debug(f"Successfully loaded {len(chunk_logs)} log entries from {filename}")
+                    except EOFError:
+                        logger.error(f"Incomplete envelope: unexpected EOF in {filename} - file is corrupted")
+                        continue
                     except Exception as e:
                         logger.error(f"Error loading log chunk {filename}: {str(e)}")
+                        continue
         
         # For backward compatibility, also check the old location
         if not logs and os.path.exists(os.path.join(self.log_directory, "cache")):
             for filename in sorted(os.listdir(os.path.join(self.log_directory, "cache"))):
                 if filename.startswith(f"{session_id}_chunk_") and filename.endswith(".gz"):
+                    file_path = os.path.join(self.log_directory, "cache", filename)
                     try:
-                        with gzip.open(os.path.join(self.log_directory, "cache", filename), 'rb') as f:
+                        # First check if file might be corrupted (too small to be valid)
+                        file_size = os.path.getsize(file_path)
+                        if file_size < 10:  # Extremely small files are likely corrupted
+                            logger.warning(f"Skipping suspiciously small log chunk: {filename} ({file_size} bytes)")
+                            continue
+                            
+                        with gzip.open(file_path, 'rb') as f:
                             chunk_logs = pickle.load(f)
+                            if not isinstance(chunk_logs, list):
+                                logger.warning(f"Log chunk {filename} has unexpected format, skipping")
+                                continue
                             logs.extend(chunk_logs)
+                            logger.debug(f"Successfully loaded {len(chunk_logs)} log entries from {filename}")
+                    except EOFError:
+                        logger.error(f"Incomplete envelope: unexpected EOF in {filename} - file is corrupted")
+                        continue
                     except Exception as e:
                         logger.error(f"Error loading log chunk {filename}: {str(e)}")
+                        continue
                         
         # Sort logs by timestamp
         logs.sort(key=lambda x: x.get("timestamp", 0))
@@ -455,12 +529,12 @@ class GameLogger:
         
         # Save snapshot to file
         with open(snapshot_file, "w") as f:
-            json.dump(snapshot_data, f, indent=2)
+            json.dump(snapshot_data, f, indent=2, cls=CustomJSONEncoder)
             
         # For backward compatibility, also create a copy in the original location
         compat_snapshot_file = os.path.join(self.log_directory, f"snapshot_{snapshot_time}.json")
         with open(compat_snapshot_file, "w") as f:
-            json.dump(snapshot_data, f, indent=2)
+            json.dump(snapshot_data, f, indent=2, cls=CustomJSONEncoder)
         
         # Create a duplet by pairing this snapshot with recent logs
         self._create_snapshot_log_duplet(snapshot_data, snapshot_time)
@@ -498,7 +572,7 @@ class GameLogger:
         
         # Save duplet
         with open(duplet_file, "w") as f:
-            json.dump(duplet_data, f, indent=2)
+            json.dump(duplet_data, f, indent=2, cls=CustomJSONEncoder)
             
         logger.debug(f"Created snapshot-log duplet: {duplet_file}")
 
@@ -693,10 +767,18 @@ class GameLogger:
         if not self.log_buffer:
             return
             
-        # Group by category for more efficient logging
+        # Add to the log cache before processing
+        with self.log_lock:
+            self.log_cache.extend(self.log_buffer)
+            
+            # Check if we need to compress the cache
+            if len(self.log_cache) >= self.cache_size_limit:
+                self.compress_cache_chunk()
+        
+        # Group by category for cleaner logs
         by_category = {}
         for entry in self.log_buffer:
-            category = entry["category"]
+            category = entry['category']
             if category not in by_category:
                 by_category[category] = []
             by_category[category].append(entry)
@@ -706,7 +788,7 @@ class GameLogger:
             if len(entries) == 1:
                 # Single entry - log normally
                 entry = entries[0]
-                message = f"[{category}] {json.dumps(entry['data'])}"
+                message = f"[{category}] {json.dumps(entry['data'], cls=CustomJSONEncoder)}"
                 logger.debug(message)
             else:
                 # Multiple entries - log count and first/last
@@ -714,8 +796,8 @@ class GameLogger:
                 logger.debug(message)
                 
                 # Log first and last entry in detail
-                logger.debug(f"[{category}] First: {json.dumps(entries[0]['data'])}")
-                logger.debug(f"[{category}] Last: {json.dumps(entries[-1]['data'])}")
+                logger.debug(f"[{category}] First: {json.dumps(entries[0]['data'], cls=CustomJSONEncoder)}")
+                logger.debug(f"[{category}] Last: {json.dumps(entries[-1]['data'], cls=CustomJSONEncoder)}")
         
         # Clear buffer
         self.log_buffer = []
@@ -735,7 +817,7 @@ class GameLogger:
         
         if output_format == "json":
             with open(output_file, 'w') as f:
-                json.dump(logs, f)
+                json.dump(logs, f, cls=CustomJSONEncoder)
         elif output_format == "csv":
             import csv
             with open(output_file, 'w', newline='') as f:

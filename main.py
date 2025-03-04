@@ -201,6 +201,15 @@ class Game:
             
             # Handle ESC key for exit, especially during game over
             if event.type == pygame.KEYDOWN:
+                # General keyboard input logging for all keys
+                key_name = pygame.key.name(event.key)
+                game_logger.debug("KEY_INPUT", {
+                    "key": key_name,
+                    "key_code": event.key,
+                    "game_state": "game_over" if self.game_over else "playing",
+                    "timestamp": time.time()
+                }, "normal")
+                
                 if event.key == pygame.K_ESCAPE:
                     # If showing analysis, close it
                     if self.showing_analysis:
@@ -223,11 +232,22 @@ class Game:
                 # Handle analysis options during game over screen
                 elif self.game_over:
                     if event.key == pygame.K_e:  # E for Eat Logs
+                        # Log the key press event with priority "critical" to ensure it appears
+                        game_logger.debug("INPUT_KEY_PRESSED", {
+                            "key": "E",
+                            "action": "eat_logs",
+                            "screen": "game_over",
+                            "timestamp": time.time()
+                        }, "critical")
+                        
                         game_logger.debug("GAME_OVER_EAT_LOGS_SELECTED", {
                             "action": "eat_logs",
                             "player_state": self.player.__dict__,
                             "session_data": game_logger.get_current_session_id()
-                        })
+                        }, "critical")  # Changed priority to critical
+                        
+                        # Add a more visible notification
+                        self.show_notification("ANALYZING LOGS - PROCESSING DATA...", 5)
                         
                         # Run the unified analysis in a way that displays results in game
                         self.analyze_logs_in_game()
@@ -832,7 +852,20 @@ class Game:
     def analyze_logs_in_game(self):
         """Run log analysis and display results directly in the game UI"""
         # First show a "processing" notification
-        self.show_notification("Crunching logs... analyzing patterns...")
+        self.show_notification("Crunching logs... analyzing patterns...", 3)
+        
+        # Log the start of analysis with detailed information
+        game_logger.debug("LOG_ANALYSIS_STARTED_IN_GAME", {
+            "session_id": game_logger.get_current_session_id(),
+            "player_state": {
+                "health": self.player.health,
+                "wetness": self.player.wetness,
+                "obsidian_armor": self.player.obsidian_armor_level,
+                "position": {"x": self.player.rect.x, "y": self.player.rect.y}
+            },
+            "timestamp": time.time(),
+            "triggered_by": "e_key_press"
+        }, "critical")
         
         # Use subprocess to run the analysis in the background
         import subprocess
